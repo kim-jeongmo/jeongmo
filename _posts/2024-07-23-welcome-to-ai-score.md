@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Score에 오신 것을 환영합니다"
-date: 2023-07-23 09:00:00 +0900
+date: 2024-07-23 09:00:00 +0900
 categories: [공지사항]
 tags: [환영, 소개]
 ---
