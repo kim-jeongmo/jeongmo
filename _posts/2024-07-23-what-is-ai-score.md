@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Score사용법"
+title: "AI Score 소개"
 date: 2024-07-23 12:00:00 +0900
 categories: [공지사항]
 tags: [매뉴얼, 소개]
