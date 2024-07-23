@@ -41,6 +41,7 @@ img: scorecard_1.png
 - 샷 정보 입력 방법
   샷 하나마다 샷 추가 버튼을 눌러서 샷카드를 하나 내려 놓습니다.
   샷을 한 후에 사용했던 클럽, 홀까지 남은 거리, 샷의 결과, 샷의 구질 등을 입력합니다.
+  샷카드 한장마다 자동으로 스코어가 계산되어 Overview 화면에 실시간으로 합계점수가 입력됩니다.
 
     ![score overview]({{site.baseurl}}/assets/img/shotcard.png)
 
