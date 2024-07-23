@@ -31,6 +31,7 @@ tags: [환영, 소개]
 ## 종합 분석 대시보드
 
 - 평균 스코어, 베스트 스코어, 구질 분석, 스코어 분포, 퍼팅 분석 등 다양한 통계를 한눈에 볼 수 있습니다. 또한 AI가 사용자의 라운딩을 분석해서 장단점과 개선할 방향을 제시합니다.
+
 ![스코어 분석 #1](https://kim-jeongmo.github.io/jeongmo/images/dashboard1.png)
 ![스코어 분석 #2](https://kim-jeongmo.github.io/jeongmo/images/dashboard2.png)
 
