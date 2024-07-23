@@ -25,14 +25,14 @@ tags: [환영, 소개]
 ## 라운딩 입력 화면
 
 - 티샷 클럽 선택, 샷 결과 등 라운딩의 세부 데이터를 입력할 수 있는 화면입니다.
-![스코어 입력](./assets/img/score_input.png)
+![스코어 입력](/assets/img/score_input.png)
 
 
 ## 종합 분석 대시보드
 
 - 평균 스코어, 베스트 스코어, 구질 분석, 스코어 분포, 퍼팅 분석 등 다양한 통계를 한눈에 볼 수 있습니다. 또한 AI가 사용자의 라운딩을 분석해서 장단점과 개선할 방향을 제시합니다.
-![스코어 분석 #1](./assets/img/dashboard1.png)
-![스코어 분석 #2](./assets/img/dashboard1.png)
+![스코어 분석 #1](/assets/img/dashboard1.png)
+![스코어 분석 #2](/assets/img/dashboard1.png)
 
 
 ## 사용 방법
