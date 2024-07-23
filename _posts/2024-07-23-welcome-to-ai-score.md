@@ -25,6 +25,7 @@ tags: [환영, 소개]
 ## 라운딩 입력 화면
 
 - 티샷 클럽 선택, 샷 결과 등 라운딩의 세부 데이터를 입력할 수 있는 화면입니다.
+
 ![스코어 입력](https://kim-jeongmo.github.io/jeongmo/images/score_input.png)
 
 
