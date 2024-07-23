@@ -36,7 +36,7 @@ img: scorecard_1.png
 
 - 진행중인 라운딩 상황을 한눈에 볼수 있는 Overview화면 입니다. 홀을 선택하거나 지금까지 타수를 확인하실 수 있습니다.
 
-![스코어 입력]({{site.baseurl}}/assets/img/score_overview.png)
+    ![score overview]({{site.baseurl}}/assets/img/score_overview.png)
 
 
 ## 종합 분석 대시보드
