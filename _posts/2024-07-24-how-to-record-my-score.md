@@ -28,5 +28,5 @@ img: good_score_record.jpg
 }    
 </style>
 <div class="video-container">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/QDqzMQie_1M" title="점수를 높여주는 좋은습관 OOOOO 작성하기!｜ 골프인을 만나다 ｜ 민학수의 All That Golf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe  src="https://www.youtube.com/embed/QDqzMQie_1M" title="점수를 높여주는 좋은습관 OOOOO 작성하기!｜ 골프인을 만나다 ｜ 민학수의 All That Golf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
