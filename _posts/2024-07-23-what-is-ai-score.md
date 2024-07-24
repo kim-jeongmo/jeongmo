@@ -62,5 +62,9 @@ img: pexels-mikhail-nilov-9366555.jpg
 
 - 평균 스코어, 베스트 스코어, 구질 분석, 스코어 분포, 퍼팅 분석 등 다양한 통계를 한눈에 볼 수 있습니다. 또한 AI가 사용자의 라운딩을 분석해서 장단점과 개선할 방향을 제시합니다.
 
-    ![score overview]({{site.baseurl}}/assets/img/shotcard.png)
-    ![score overview]({{site.baseurl}}/assets/img/shotcard.png)
+    ![score overview]({{site.baseurl}}/assets/img/Score_Analysis_1.png)
+    ![score overview]({{site.baseurl}}/assets/img/Score_Analysis_2.png)
+    ![score overview]({{site.baseurl}}/assets/img/Score_Analysis_3.png)
+    ![score overview]({{site.baseurl}}/assets/img/Score_Analysis_4.png)
+    ![score overview]({{site.baseurl}}/assets/img/Score_Analysis_5.png)
+    ![score overview]({{site.baseurl}}/assets/img/Score_Analysis_6.png)
