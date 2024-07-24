@@ -4,7 +4,7 @@ title: "AI Score 소개"
 date: 2024-07-23 12:00:00 +0900
 categories: [공지사항]
 tags: [매뉴얼, 소개]
-img: scorecard_1.png
+img: pexels-mikhail-nilov-9366555.jpg
 ---
 이 프로그램은 골프 실력 향상을 위해 체계적으로 데이터를 관리하고 분석할 수 있는 도구입니다. AI 기반의 정밀한 분석을 통해 자신의 플레이 스타일을 이해하고, 더욱 효율적인 연습과 전략을 수립하는데 큰 도움이 될 것입니다. 
 
@@ -15,7 +15,7 @@ img: scorecard_1.png
 
 
 
-![score overview]({{site.baseurl}}/assets/img/score_overview.png)
+![score overview]({{site.baseurl}}/assets/img/pexels-jopwell-1325744.jpg)
 
 ## 스코어 카드만 잘 적어도 성적향상에 도움이 된다구요?
 
