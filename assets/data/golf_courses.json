@@ -1,0 +1,1807 @@
+[
+  {
+    "id": "asianacc",
+    "name": "아시아나 CC",
+    "location": "경기도 용인시 처인구 양지면 양대로 290",
+    "imageUrl": "https://www.asianacc.co.kr/image/new_main/logo.png",
+    "courses": [
+      {
+        "name": "동코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4},
+          { "number": 2, "par": 4},
+          { "number": 3, "par": 4},
+          { "number": 4, "par": 5},
+          { "number": 5, "par": 4},
+          { "number": 6, "par": 3},
+          { "number": 7, "par": 5},
+          { "number": 8, "par": 3},
+          { "number": 9, "par": 4}
+        ]
+      },
+      {
+        "name": "동코스 IN",
+        "holes": [
+          { "number": 1, "par": 5},
+          { "number": 2, "par": 3},
+          { "number": 3, "par": 4},
+          { "number": 4, "par": 4},
+          { "number": 5, "par": 4},
+          { "number": 6, "par": 5},
+          { "number": 7, "par": 3},
+          { "number": 8, "par": 4},
+          { "number": 9, "par": 4}
+        ]
+      },
+      {
+        "name": "서코스 OUT",
+        "holes": [
+          { "number": 1, "par": 5},
+          { "number": 2, "par": 4},
+          { "number": 3, "par": 4},
+          { "number": 4, "par": 4},
+          { "number": 5, "par": 3},
+          { "number": 6, "par": 5},
+          { "number": 7, "par": 4},
+          { "number": 8, "par": 3},
+          { "number": 9, "par": 4}
+        ]                                      
+      },                                       
+      {                                        
+        "name": "서코스 IN",                     
+        "holes": [                             
+          { "number": 1, "par": 4},
+          { "number": 2, "par": 4},
+          { "number": 3, "par": 5},
+          { "number": 4, "par": 3},
+          { "number": 5, "par": 4},
+          { "number": 6, "par": 4},
+          { "number": 7, "par": 3},
+          { "number": 8, "par": 4},
+          { "number": 9, "par": 5}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seoulhanyang",
+    "name": "서울한양cc",
+    "location": "경기도 고양시 덕양구 고양대로 164번길 164",
+    "imageUrl": "https://www.hanyangcc.com/images/logo.svg",
+    "courses": [
+      {
+        "name": "뉴코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 }
+        ]                       
+      },                         
+      {                         
+        "name": "뉴코스 IN",      
+        "holes": [              
+          { "number": 1, "par": 3 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 }
+        ]                       
+      },                         
+      {                         
+        "name": "올드코스 OUT",   
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 }
+        ]                       
+      },                         
+      {                         
+        "name": "올드코스 IN",    
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hanyangfine",
+    "name": "한양파인CC",
+    "location": "경기도 고양시 덕양구 고양대로 1591",
+    "imageUrl": "https://www.hypine.co.kr/images/logo01.png",
+    "courses": [
+      {
+        "name": "뉴코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newkorea",
+    "name": "뉴코리아컨트리클럽",
+    "location": "경기도 고양시 덕양구 신원2로 57",
+    "imageUrl": "https://www.newkoreacc.co.kr/images/logo.png",
+    "courses": [
+      {
+        "name": "OUT COURSE",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 }
+        ]                       
+      },                        
+      {                         
+        "name": "IN COURSE",    
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goyangcc",
+    "name": "고양컨트리클럽",
+    "location": "경기도 고양시 덕양구 홍도로 304-23",
+    "imageUrl": "https://m.goyangcc.com/Mobile/img/logo_main.png",
+    "courses": [
+      {
+        "name": "고양코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "olympiccc",
+    "name": "올림픽컨트리클럽",
+    "location": "경기도 고양시 덕양구 벽제동 465",
+    "imageUrl": "http://www.olympicsports.co.kr/images/main/logo.gif",
+    "courses": [
+      {
+        "name": "올림픽",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 3 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ilsanspringhills",
+    "name": "일산스프링힐스",
+    "location": "경기도 고양시 일산동구 산황로 108",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ilsanspringhills.png",
+    "courses": [
+      {
+        "name": "스프링힐스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hanwooncc",
+    "name": "한원컨트리클럽",
+    "location": "경기도 용인시 처인구 남사읍 전나무골길 2번길 94",
+    "imageUrl": "https://www.hanwoncc.co.kr/images/logo.png",
+    "courses": [
+      {
+        "name": "고구려코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 }
+        ]                       
+      },                        
+	  {                         
+        "name": "백제코스",       
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 }
+        ]                       
+      },                        
+	  {                         
+        "name": "신라코스",       
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yangjifine",
+    "name": "양지파인리조트",
+    "location": "경기도 용인시 처인구 양지면 남평로 112",
+    "imageUrl": "https://www.pineresort.com/img/logo.png",
+    "courses": [
+      {
+        "name": "남코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "동코스",         
+        "holes": [              
+          { "number": 1, "par": 3 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "서코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]
+      }
+    ]
+  },
+  {
+    "id": "suwoncc",
+    "name": "수원컨트리클럽",
+    "location": "경기도 용인시 처인구 양지면 남평로 112",
+    "imageUrl": "http://www.suwoncc.co.kr/homepage/images/main/top_logo.gif",
+    "courses": [
+      {
+        "name": "NEW COURSE",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "OLD COURSE",        
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "plazacc",
+    "name": "플라자CC",
+    "location": "용인시 처인구 남사읍 봉무로 153번길 79",
+    "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
+    "courses": [
+      {
+        "name": "타이거코스 OUT",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+								
+	  {                         
+        "name": "타이거코스 IN",       
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "라이온코스 OUT",       
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "라이온코스 IN",       
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "plazaseorak",
+    "name": "플라자CC 설악",
+    "location": "강원도 속초시 미시령로2983번길 111",
+    "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
+    "courses": [
+      {
+        "name": "선라이즈",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+								
+	  {                         
+        "name": "마운틴뷰",      
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "plazajeju",
+    "name": "플라자CC 제주",
+    "location": "제주특별자치도 제주시 명림로 575-107",
+    "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
+    "courses": [
+      {
+        "name": "OUT COURSE",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+								
+	  {                         
+        "name": "IN COURSE",     
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "taekwangcc",
+    "name": "태광CC",
+    "location": "용인시 기흥구 흥덕4로 77",
+    "imageUrl": "https://www.taekwangcc.co.kr/images/logo.png",
+    "courses": [
+      {
+        "name": "북코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "남코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "서코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "동코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "hansungcc",
+    "name": "한성컨트리클럽",
+    "location": "용인시 기흥구 구교동로 151",
+    "imageUrl": "https://hansung-cc.co.kr/img_re/logo_w.png",
+    "courses": [
+      {
+        "name": "오렌지코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "블루코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "그린코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "goldcc",
+    "name": "골드CC",
+    "location": "용인시 기흥구 기흥단지로 398",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/goldcc_logo.png",
+    "courses": [
+      {
+        "name": "챔피언코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "마스터코스",       
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "koreacc",
+    "name": "코리아CC",
+    "location": "용인시 처인구 이동읍 기흥단지로 579",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/koreacc_logo.png",
+    "courses": [
+      {
+        "name": "레이크코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "챌리지코스",      
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "그릭코스",       
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "koreapublic",
+    "name": "코리아 퍼블릭",
+    "location": "경기도 용인시 기흥구 기흥단지로 224",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/koreapublic_logo.png",
+    "courses": [
+      {
+        "name": "퍼블릭코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "ganghwawellbeing",
+    "name": "강화웰빙CC",
+    "location": "인천광역시 강화군 길상면 해안남로 392",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ganghwawellbeing_logo.png",
+    "courses": [
+      {
+        "name": "웰빙코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "88cc",
+    "name": "88CC",
+    "location": "용인시 기흥구 석성로 521번길 169",
+    "imageUrl": "https://www.88countryclub.co.kr/images/sub_logo.png?v=1.0",
+    "courses": [
+      {
+        "name": "서코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "서코스 IN",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "동코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "동코스 IN",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "lakesizecc",
+    "name": "레이크사이드CC",
+    "location": "용인시 처인구 모현읍 능원로 181",
+    "imageUrl": "https://www.lakeside.kr/resource/assets/common/images/logo.png",
+    "courses": [
+      {
+        "name": "동코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "동코스 IN",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+      {
+        "name": "남코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+      {
+        "name": "남코스 IN",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "서코스 OUT",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "서코스 IN",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "namboocc",
+    "name": "남부CC",
+    "location": "정원석,용인시 기흥구 사은로 163",
+    "imageUrl": "https://www.namboocc.co.kr/resource/assets/common/images/logo.png",
+    "courses": [
+      {
+        "name": "OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "IN",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "sinwoncc",
+    "name": "신원CC",
+    "location": "용인시 이동읍 이원로 225",
+    "imageUrl": "https://www.swcc.co.kr/static/pc/images/common/custom/logo.png",
+    "courses": [
+      {
+        "name": "솔로몬",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "에벤에셀",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "데이비드",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "eunhwasamcc",
+    "name": "은화삼CC",
+    "location": "용인시 처인구 백옥대로 860-38",
+    "imageUrl": "https://www.ehscc.co.kr/Content/web/img/logo_off.svg",
+    "courses": [
+      {
+        "name": "웨스트코스",
+        "holes": [
+          { "number": 1, "par": 5 },	
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "이스트코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "blueoneyongin",
+    "name": "블루원용인CC",
+    "location": "윤재원,용인시 처인구 원삼면 보개원삼로 1534번길 40",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/blueoneyongin_logo.png",
+    "courses": [
+      {
+        "name": "웨스트코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "미들코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+      {
+        "name": "이스트코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "blueonesangju",
+    "name": "블루원상주CC",
+    "location": "경상북도 상주시 모서면 화현3길 127",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/blueonesangju_logo.png",
+    "courses": [
+      {
+        "name": "이스트코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "웨스트코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "jisancc",
+    "name": "지산CC",
+    "location": "용인시 처인구 원삼면 죽양대로 2000번길 60",
+    "imageUrl": "https://www.jisanresort.co.kr/w/asset/images/common/m_ft_logo_new.png",
+    "courses": [
+      {
+        "name": "동코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "남코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "서코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "퍼블릭코스",
+        "holes": [
+          { "number": 1, "par": 4 }, 
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "hwasancc",
+    "name": "화산CC",
+    "location": "경기도 용인시 처인구 이동읍 화산로 239",
+    "imageUrl": "http://www.hwasancc.com/images/common/logo.png",
+    "courses": [
+      {
+        "name": "OUT COURCE",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+      {
+        "name": "IN COURSE",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "hanlimyongincc",
+    "name": "한림용인CC",
+    "location": "용인시 처인구 남사면 경기동로 628",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "사파이어코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "루비코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "다이아몬드코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "ansungh",
+    "name": "골프존카운티 안성H",
+    "location": "경기도 안성시 보개면 보삼로 302",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "HILL코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+      {
+        "name": "LAKE코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "ansungw",
+    "name": "골프존카운티 안성W",
+    "location": "안성시 양성면 교동길 19-70",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+      {
+        "name": "IN 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "hanlinansung",
+    "name": "한림안성",
+    "location": "안성시 양성면 산정리 산 163-22",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "한림안성",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountyjinchun",
+    "name": "골프존카운티 진천",
+    "location": "충북 진천군 진천읍 지암리 310",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "레이크코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "마운틴코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "밸리코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountyhwarang",
+    "name": "골프존카운티 화랑",
+    "location": "충북 진천군 문백면 농다리로 809",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "원화랑",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "원낭자",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountychunan",
+    "name": "골프존카운티 천안",
+    "location": "충남 천안시 동남구 병천면 매성2길 103",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "IN 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountychungtong",
+    "name": "골프존카운티 청통",
+    "location": "경상북도 영천시 청통면 은해사로 49-77",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "청통코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "팔공코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountygampo",
+    "name": "골프존카운티 감포",
+    "location": "경주시 감포읍 동해안로 1819-59",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "IN 코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountygumi",
+    "name": "골프존카운티 구미",
+    "location": "구미시 산동면 강동로 953-74",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      },
+	  {
+        "name": "IN 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountysunsan",
+    "name": "골프존카운티 선산",
+    "location": "구미시 산동면 강동로 953-73",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "IN 코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountygyongnam",
+    "name": "골프존카운티 경남",
+    "location": "함안군 칠원읍 운무로 470",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "페리돗 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "제이트 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountysachun",
+    "name": "골프존카운티 사천",
+    "location": "사천시 서포면 구송로 151",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "다솔 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "비토 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "비룡 코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "thegolfcc",
+    "name": "더골프CC",
+    "location": "울산광역시 울주군 서생면 용연길 206-52",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "OCEAN 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "ROCKY 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountymuju",
+    "name": "골프존카운티 무주",
+    "location": "전북 무주군 안성면 장무로 1537-21",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "LAKE 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "MOUNTAIN 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  }
+]
+
+
