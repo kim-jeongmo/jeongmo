@@ -835,7 +835,7 @@
     ]
   },
   {
-    "id": "lakesizecc",
+    "id": "lakesidecc",
     "name": "레이크사이드CC",
     "location": "용인시 처인구 모현읍 능원로 181",
     "imageUrl": "https://www.lakeside.kr/resource/assets/common/images/logo.png",
@@ -1798,6 +1798,542 @@
           { "number": 7, "par": 5 },
           { "number": 8, "par": 4 },
           { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountysunwoon",
+    "name": "골프존카운티 선운",
+    "location": "전북 고창군 아산면 운곡로 418",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "선운코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "화시코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountysunchun",
+    "name": "골프존카운티 순천",
+    "location": "전남 순천시 주암면 행정 1길 77",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "루비",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "에메랄드",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "다이아몬드",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {
+        "name": "토파즈",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountyyounngam45",
+    "name": "골프존카운티 영암45",
+    "location": "전라남도 영암군 삼호읍 에프원로 121-1",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "짐앵A",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "짐앵B",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "짐앵C",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "카일필립스A",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "카일필립스B",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "golfzoncountyora",
+    "name": "골프존카운티 오라",
+    "location": "제주시 오라남로 130-16",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "courses": [
+      {
+        "name": "동",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "서",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "남(OUT)",       
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "남(IN)",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "anyangcontryclub",
+    "name": "안양컨트리클럽",
+    "location": "경기도 군포시 군포로 364",
+    "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "IN코스",          
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "gapyongbenest",
+    "name": "가평베네스트",
+    "location": "경기도 가평군 상면 둔덕말길 232",
+    "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "courses": [
+      {
+        "name": "MAPLE",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "PINE",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "BIRCH",         
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "ansungbenest",
+    "name": "안성베네스트",
+    "location": "경기도 안성시 금광면 삼흥로 660",
+    "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "courses": [
+      {
+        "name": "WEST",
+        "holes": [
+          { "number": 1, "par": 4 },	
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "NORTH",         
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "SOUTH",        
+        "holes": [              
+          { "number": 1, "par": 5 },	
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      ,                         
+	  {                         
+        "name": "EAST",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "dongraebenest",
+    "name": "동래베네스트",
+    "location": "부산광역시 금정구 하정로 66",
+    "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT",
+        "holes": [
+          { "number": 1, "par": 4 },	
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "IN",           
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "glenrosecc",
+    "name": "글렌로스골프클럽",
+    "location": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 69",
+    "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "courses": [
+      {
+        "name": "OUT",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "IN",           
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "yongincc",
+    "name": "용인CC",
+    "location": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 69",
+    "imageUrl": "https://www.yongincc.com/images/logo.png",
+    "courses": [
+      {
+        "name": "용인코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "석천코스",          
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 6 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "sunningpointcc",
+    "name": "써닝포인트CC",
+    "location": "경기도 용인시 처인구 백암면 고안로 51번길205",
+    "imageUrl": "https://www.sunningpoint.com/v2020/images/common/logo.png",
+    "courses": [
+      {
+        "name": "SUN 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 6 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "POINT 코스",           
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
         ]                       
       }
     ]
