@@ -2177,7 +2177,7 @@
           { "number": 8, "par": 3 },
           { "number": 9, "par": 5 } 
         ]                       
-      ,                         
+      },                         
 	  {                         
         "name": "EAST",         
         "holes": [              
