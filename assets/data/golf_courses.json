@@ -3211,6 +3211,142 @@
         ]                       
       }
     ]
+  },
+  {
+    "id": "hanlimkwangneungcc",
+    "name": "한림광릉CC",
+    "location": "경기도 남양주시 진접읍 팔야로 280 ",
+    "imageUrl": "http://www.kwangneungcc.co.kr/images/common/logo.png",
+    "courses": [
+      {
+        "name": "Glen 코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "Pine 코스",          
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "visionhilscc",
+    "name": "비젼힐스CC",
+    "location": "경기도 남양주시 화도읍 마치로 226-220",
+    "imageUrl": "https://www.visionhillscc.co.kr/images_new/common/logo01.png",
+    "courses": [
+      {
+        "name": "EAST 코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "WEST 코스",           
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "haevichijeju",
+    "name": "해비치 컨트리클럽 제주",
+    "location": "제주도 서귀포시 남원읍 원님로 399번길 319 ",
+    "imageUrl": "https://www.haevichi.com/ko/pc/img/com/logo_header_CC_jeju.png",
+    "courses": [
+      {
+        "name": "SKY 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "PALM 코스",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "LAKE 코스",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "VALLEY 코스",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
   }
 ]
 
