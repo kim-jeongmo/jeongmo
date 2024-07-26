@@ -398,11 +398,11 @@
     ]
   },
   {
-    "id": "plazacc",
-    "name": "플라자CC",
+    "id": "plazaccyongin",
+    "name": "플라자CC 용인",
     "location": "용인시 처인구 남사읍 봉무로 153번길 79",
     "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614146/home?entry=pll",
     "courses": [
       {
         "name": "타이거코스 OUT",
@@ -468,7 +468,7 @@
     "name": "플라자CC 설악",
     "location": "강원도 속초시 미시령로2983번길 111",
     "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613498/home?entry=pll",
     "courses": [
       {
         "name": "선라이즈",
@@ -506,7 +506,7 @@
     "name": "플라자CC 제주",
     "location": "제주특별자치도 제주시 명림로 575-107",
     "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11608923/home?entry=plt",
     "courses": [
       {
         "name": "OUT COURSE",
@@ -544,7 +544,7 @@
     "name": "태광CC",
     "location": "용인시 기흥구 흥덕4로 77",
     "imageUrl": "https://www.taekwangcc.co.kr/images/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614136/home?entry=plt",
     "courses": [
       {
         "name": "북코스",
@@ -606,10 +606,10 @@
   },
   {
     "id": "hansungcc",
-    "name": "한성컨트리클럽",
+    "name": "한성CC",
     "location": "용인시 기흥구 구교동로 151",
     "imageUrl": "https://hansung-cc.co.kr/img_re/logo_w.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614152/home?entry=plt",
     "courses": [
       {
         "name": "오렌지코스",
@@ -660,10 +660,10 @@
     "name": "골드CC",
     "location": "용인시 기흥구 기흥단지로 398",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/goldcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612751/home?entry=plt",
     "courses": [
       {
-        "name": "챔피언코스",
+        "name": "챔피언 OUT",
         "holes": [
           { "number": 1, "par": 4 },
           { "number": 2, "par": 3 },
@@ -677,13 +677,41 @@
         ]                       
       },                        
 	  {                         
-        "name": "마스터코스",       
+        "name": "챔피언 IN",      
+        "holes": [              
+          { "number": 1, "par": 3 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "마스터 OUT",      
         "holes": [              
           { "number": 1, "par": 4 },
           { "number": 2, "par": 3 },
           { "number": 3, "par": 4 },
           { "number": 4, "par": 5 },
           { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "마스터 IN",      
+        "holes": [              
+          { "number": 1, "par": 3 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
           { "number": 6, "par": 4 },
           { "number": 7, "par": 3 },
           { "number": 8, "par": 4 },
@@ -697,7 +725,7 @@
     "name": "코리아CC",
     "location": "용인시 처인구 이동읍 기흥단지로 579",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/koreacc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614135/home?entry=plt",
     "courses": [
       {
         "name": "레이크코스",
@@ -748,7 +776,7 @@
     "name": "코리아 퍼블릭",
     "location": "경기도 용인시 기흥구 기흥단지로 224",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/koreapublic_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13534320/home?entry=plt",
     "courses": [
       {
         "name": "퍼블릭코스",
@@ -771,7 +799,7 @@
     "name": "강화웰빙CC",
     "location": "인천광역시 강화군 길상면 해안남로 392",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ganghwawellbeing_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1589805559/home?entry=plt",
     "courses": [
       {
         "name": "웰빙코스",
@@ -794,7 +822,7 @@
     "name": "88CC",
     "location": "용인시 기흥구 석성로 521번길 169",
     "imageUrl": "https://www.88countryclub.co.kr/images/sub_logo.png?v=1.0",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614143/home?entry=plt",
     "courses": [
       {
         "name": "서코스 OUT",
@@ -859,7 +887,7 @@
     "name": "레이크사이드CC",
     "location": "용인시 처인구 모현읍 능원로 181",
     "imageUrl": "https://www.lakeside.kr/resource/assets/common/images/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/37775677/home?entry=plt",
     "courses": [
       {
         "name": "동코스 OUT",
@@ -952,7 +980,7 @@
     "name": "남부CC",
     "location": "정원석,용인시 기흥구 사은로 163",
     "imageUrl": "https://www.namboocc.co.kr/resource/assets/common/images/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612877/home?entry=plt",
     "courses": [
       {
         "name": "OUT",
@@ -989,7 +1017,7 @@
     "name": "신원CC",
     "location": "용인시 이동읍 이원로 225",
     "imageUrl": "https://www.swcc.co.kr/static/pc/images/common/custom/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613547/home?entry=plt",
     "courses": [
       {
         "name": "솔로몬",
@@ -1040,7 +1068,7 @@
     "name": "은화삼CC",
     "location": "용인시 처인구 백옥대로 860-38",
     "imageUrl": "https://www.ehscc.co.kr/Content/web/img/logo_off.svg",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614051/home?entry=plt",
     "courses": [
       {
         "name": "웨스트코스",
@@ -1077,7 +1105,7 @@
     "name": "블루원용인CC",
     "location": "윤재원,용인시 처인구 원삼면 보개원삼로 1534번길 40",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/blueoneyongin_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614137/home?entry=plt",
     "courses": [
       {
         "name": "웨스트코스",
@@ -1128,7 +1156,7 @@
     "name": "블루원상주CC",
     "location": "경상북도 상주시 모서면 화현3길 127",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/blueonesangju_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12904060/home?entry=plt",
     "courses": [
       {
         "name": "이스트코스",
@@ -1165,7 +1193,7 @@
     "name": "지산CC",
     "location": "용인시 처인구 원삼면 죽양대로 2000번길 60",
     "imageUrl": "https://www.jisanresort.co.kr/w/asset/images/common/m_ft_logo_new.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614300/home?entry=plt",
     "courses": [
       {
         "name": "동코스",
@@ -1208,7 +1236,17 @@
           { "number": 8, "par": 5 },
           { "number": 9, "par": 4 } 
         ]                       
-      },
+      }
+    ]
+  },,
+  {
+    "id": "jisanccpublic",
+    "name": "지산퍼블릭",
+    "location": "경기 용인시 처인구 죽양대로2000번길 60",
+    "imageUrl": "https://www.jisanresort.co.kr/w/asset/images/common/m_ft_logo_new.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1126769556/home?entry=plt",
+    "courses": [
+      
       {
         "name": "퍼블릭코스",
         "holes": [
@@ -1230,7 +1268,7 @@
     "name": "화산CC",
     "location": "경기도 용인시 처인구 이동읍 화산로 239",
     "imageUrl": "http://www.hwasancc.com/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614314/home?entry=plt",
     "courses": [
       {
         "name": "OUT COURCE",
@@ -1267,7 +1305,7 @@
     "name": "한림용인CC",
     "location": "용인시 처인구 남사면 경기동로 628",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613123/home?entry=plt",
     "courses": [
       {
         "name": "사파이어코스",
@@ -1318,7 +1356,7 @@
     "name": "골프존카운티 안성H",
     "location": "경기도 안성시 보개면 보삼로 302",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/36406677/home?entry=plt",
     "courses": [
       {
         "name": "HILL코스",
@@ -1355,7 +1393,7 @@
     "name": "골프존카운티 안성W",
     "location": "안성시 양성면 교동길 19-70",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12848618/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1392,10 +1430,10 @@
     "name": "한림안성",
     "location": "안성시 양성면 산정리 산 163-22",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374625/home?entry=plt",
     "courses": [
       {
-        "name": "한림안성",
+        "name": "OUT",
         "holes": [
           { "number": 1, "par": 4 },
           { "number": 2, "par": 4 },
@@ -1415,7 +1453,7 @@
     "name": "골프존카운티 진천",
     "location": "충북 진천군 진천읍 지암리 310",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12881789/home?entry=plt",
     "courses": [
       {
         "name": "레이크코스",
@@ -1466,7 +1504,7 @@
     "name": "골프존카운티 화랑",
     "location": "충북 진천군 문백면 농다리로 809",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1148288480/home?entry=plt",
     "courses": [
       {
         "name": "원화랑",
@@ -1503,7 +1541,7 @@
     "name": "골프존카운티 천안",
     "location": "충남 천안시 동남구 병천면 매성2길 103",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11814534/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1540,7 +1578,7 @@
     "name": "골프존카운티 청통",
     "location": "경상북도 영천시 청통면 은해사로 49-77",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/36878560/home?entry=plt",
     "courses": [
       {
         "name": "청통코스",
@@ -1577,7 +1615,7 @@
     "name": "골프존카운티 감포",
     "location": "경주시 감포읍 동해안로 1819-59",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11814673/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1614,7 +1652,7 @@
     "name": "골프존카운티 구미",
     "location": "구미시 산동면 강동로 953-74",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615178/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1650,7 +1688,7 @@
     "id": "golfzoncountysunsan",
     "name": "골프존카운티 선산",
     "location": "구미시 산동면 강동로 953-73",
-    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "imageUrl": "https://m.place.naver.com/golfcourse/11614494/home?entry=plt",
     "naverPlaceUrl": "",
     "courses": [
       {
@@ -1688,7 +1726,7 @@
     "name": "골프존카운티 경남",
     "location": "함안군 칠원읍 운무로 470",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374627/home?entry=plt",
     "courses": [
       {
         "name": "페리돗 코스",
@@ -1725,7 +1763,7 @@
     "name": "골프존카운티 사천",
     "location": "사천시 서포면 구송로 151",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21341622/home?entry=plt",
     "courses": [
       {
         "name": "다솔 코스",
@@ -1773,10 +1811,10 @@
   },
   {
     "id": "thegolfcc",
-    "name": "더골프CC",
+    "name": "골프존카운티 더골프",
     "location": "울산광역시 울주군 서생면 용연길 206-52",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13489697/home?entry=plt",
     "courses": [
       {
         "name": "OCEAN 코스",
@@ -1813,7 +1851,7 @@
     "name": "골프존카운티 무주",
     "location": "전북 무주군 안성면 장무로 1537-21",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/31093589/home?entry=plt",
     "courses": [
       {
         "name": "LAKE 코스",
@@ -1850,7 +1888,7 @@
     "name": "골프존카운티 선운",
     "location": "전북 고창군 아산면 운곡로 418",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12193665/home?entry=plt",
     "courses": [
       {
         "name": "선운코스",
@@ -1887,7 +1925,7 @@
     "name": "골프존카운티 순천",
     "location": "전남 순천시 주암면 행정 1길 77",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/19345025/home?entry=plt",
     "courses": [
       {
         "name": "루비",
@@ -1952,7 +1990,87 @@
     "name": "골프존카운티 영암45",
     "location": "전라남도 영암군 삼호읍 에프원로 121-1",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1522987541/home?entry=plt",
+    "courses": [
+      {
+        "name": "짐앵A",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "짐앵B",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "짐앵C",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "카일필립스A",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {
+        "name": "카일필립스B",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  ,
+  {
+    "id": "golfzoncountyyounngam45",
+    "name": "골프존카운티 영암45",
+    "location": "전라남도 영암군 삼호읍 에프원로 121-1",
+    "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1522987541/home?entry=plt",
     "courses": [
       {
         "name": "짐앵A",
@@ -2031,7 +2149,7 @@
     "name": "골프존카운티 오라",
     "location": "제주시 오라남로 130-16",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374612/home?entry=plt",
     "courses": [
       {
         "name": "동",
@@ -2096,7 +2214,7 @@
     "name": "안양컨트리클럽",
     "location": "경기도 군포시 군포로 364",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1296998598/home?entry=plt",
     "courses": [
       {
         "name": "OUT코스",
@@ -2130,10 +2248,10 @@
   },
   {
     "id": "gapyongbenest",
-    "name": "가평베네스트",
+    "name": "가평베네스트GC",
     "location": "경기도 가평군 상면 둔덕말길 232",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612339/home?entry=plt",
     "courses": [
       {
         "name": "MAPLE",
@@ -2181,10 +2299,10 @@
   },
   {
     "id": "ansungbenest",
-    "name": "안성베네스트",
+    "name": "안성베네스트GC",
     "location": "경기도 안성시 금광면 삼흥로 660",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11815269/home?entry=plt",
     "courses": [
       {
         "name": "WEST",
@@ -2249,7 +2367,7 @@
     "name": "동래베네스트",
     "location": "부산광역시 금정구 하정로 66",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614332/home?entry=plt",
     "courses": [
       {
         "name": "OUT",
@@ -2286,7 +2404,7 @@
     "name": "글렌로스골프클럽",
     "location": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 69",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615249/home?entry=plt",
     "courses": [
       {
         "name": "OUT",
@@ -2323,7 +2441,7 @@
     "name": "용인CC",
     "location": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 69",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/yongincc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615175/home?entry=pll",
     "courses": [
       {
         "name": "용인코스",
@@ -2360,7 +2478,7 @@
     "name": "써닝포인트CC",
     "location": "경기도 용인시 처인구 백암면 고안로 51번길205",
     "imageUrl": "https://www.sunningpoint.com/v2020/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21310925/home?entry=plt",
     "courses": [
       {
         "name": "SUN 코스",
@@ -2397,7 +2515,7 @@
     "name": "해솔리아CC",
     "location": "경기도 용인시 처인구 이동읍 백자로 369",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haesolia_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/20804552/home?entry=plt",
     "courses": [
       {
         "name": "해코스",
@@ -2448,7 +2566,7 @@
     "name": "세현CC",
     "location": "경기도 용인시 처인구 이동읍 백자로 450",
     "imageUrl": "https://www.sehyeoncc.com/images/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1195730727/home?entry=plt",
     "courses": [
       {
         "name": "VALLEY",
@@ -2485,7 +2603,7 @@
     "name": "남서울컨트리클럽",
     "location": "성남시 분당구 안양판교로1201번길 1201",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/namseoulcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612879/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -2522,7 +2640,7 @@
     "name": "리베라CC",
     "location": "경기도 화성시 중리길 183",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1451502224/home?entry=plt",
     "courses": [
       {
         "name": "레이크 코스",
@@ -2587,7 +2705,7 @@
     "name": "신안CC",
     "location": "경기도 안성시 고삼면 개울말길 149",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613536/home?entry=plt",
     "courses": [
       {
         "name": "토마토 코스",
@@ -2638,7 +2756,7 @@
     "name": "그린힐CC",
     "location": "경기도 광주시 곤지암읍 내선길 176",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612825/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -2672,10 +2790,10 @@
   },
   {
     "id": "everisgolfresort",
-    "name": "에버리스리조트",
+    "name": "에버리스골프앤리조트",
     "location": "제주특별자치도 제주시 애월읍 평화로 1693-75",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13002210/home?entry=pll",
     "courses": [
       {
         "name": "새별 코스",
@@ -2726,7 +2844,7 @@
     "name": "웰리힐리CC",
     "location": "강원도 횡성군 둔내면 조항로 360",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374651/home?entry=plt",
     "courses": [
       {
         "name": "남코스 OUT",
