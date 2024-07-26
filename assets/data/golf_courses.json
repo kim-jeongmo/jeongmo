@@ -3407,6 +3407,42 @@
     ]
   },
   {
+    "id": "saltbaycc",
+    "name": "솔트베이CC",
+    "location": "경기도 시흥시 마유로 987",
+    "imageUrl": "https://www.saltbay.co.kr/image/common/logo.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]
+	  },
+	  {
+        "name": "IN 코스           
+        "holes": [               
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
     "id": "asecovalleycc",
     "name": "아세코밸리CC",
     "location": "경기도 시흥시 마전로 307",
