@@ -2428,7 +2428,7 @@
     "id": "namseoulcc",
     "name": "남서울컨트리클럽",
     "location": "성남시 분당구 안양판교로1201번길 1201",
-    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/namseoulcc_logo.png",
     "courses": [
       {
         "name": "OUT 코스",
@@ -2464,7 +2464,7 @@
     "id": "riveracc",
     "name": "리베라CC",
     "location": "경기도 화성시 중리길 183",
-    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
     "courses": [
       {
         "name": "레이크 코스",
@@ -2528,7 +2528,7 @@
     "id": "sinancc",
     "name": "신안CC",
     "location": "경기도 안성시 고삼면 개울말길 149",
-    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
     "courses": [
       {
         "name": "토마토 코스",
@@ -2578,7 +2578,7 @@
     "id": "greenhillcc",
     "name": "그린힐CC",
     "location": "경기도 광주시 곤지암읍 내선길 176",
-    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
     "courses": [
       {
         "name": "OUT 코스",
@@ -2614,7 +2614,7 @@
     "id": "everisgolfresort",
     "name": "에버리스리조트",
     "location": "제주특별자치도 제주시 애월읍 평화로 1693-75",
-    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
     "courses": [
       {
         "name": "새별 코스",
@@ -2664,7 +2664,7 @@
     "id": "wellihillicc",
     "name": "웰리힐리CC",
     "location": "강원도 횡성군 둔내면 조항로 360",
-    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
     "courses": [
       {
         "name": "남코스 OUT",
