@@ -3125,6 +3125,92 @@
         ]                       
       }
     ]
+  },
+  {
+    "id": "jaeilcc",
+    "name": "제일CC",
+    "location": "경기도 안산시 상록구 태마당로 28",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/jaeilcc_logo.png",
+    "courses": [
+      {
+        "name": "SOUTH 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "CENTER 코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "EAST 코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "yangjucc",
+    "name": "양주컨트리클럽",
+    "location": "경기도 안산시 상록구 태마당로 28",
+    "imageUrl": "https://www.yangjucc.co.kr/image/common/logo.jpg",
+    "courses": [
+      {
+        "name": "서코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "동코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
   }
 ]
 
