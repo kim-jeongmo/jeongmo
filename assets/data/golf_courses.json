@@ -4,6 +4,7 @@
     "name": "아시아나 CC",
     "location": "경기도 용인시 처인구 양지면 양대로 290",
     "imageUrl": "https://www.asianacc.co.kr/image/new_main/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613567/home?entry=plt",
     "courses": [
       {
         "name": "동코스 OUT",
@@ -68,6 +69,7 @@
     "name": "서울한양cc",
     "location": "경기도 고양시 덕양구 고양대로 164번길 164",
     "imageUrl": "https://www.hanyangcc.com/images/logo.svg",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613475/home?entry=plt",
     "courses": [
       {
         "name": "뉴코스 OUT",
@@ -131,7 +133,8 @@
     "id": "hanyangfine",
     "name": "한양파인CC",
     "location": "경기도 고양시 덕양구 고양대로 1591",
-    "imageUrl": "https://www.hypine.co.kr/images/logo01.png",
+    "imageUrl": "https://m.place.naver.com/golfcourse/36533970/home?entry=plt",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "뉴코스",
@@ -154,6 +157,7 @@
     "name": "뉴코리아컨트리클럽",
     "location": "경기도 고양시 덕양구 신원2로 57",
     "imageUrl": "https://www.newkoreacc.co.kr/images/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613083/home?entry=plt",
     "courses": [
       {
         "name": "OUT COURSE",
@@ -190,6 +194,7 @@
     "name": "고양컨트리클럽",
     "location": "경기도 고양시 덕양구 홍도로 304-23",
     "imageUrl": "https://m.goyangcc.com/Mobile/img/logo_main.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/19462643/home?entry=pll",
     "courses": [
       {
         "name": "고양코스",
@@ -212,6 +217,7 @@
     "name": "올림픽컨트리클럽",
     "location": "경기도 고양시 덕양구 벽제동 465",
     "imageUrl": "http://www.olympicsports.co.kr/images/main/logo.gif",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615431/home?entry=plt",
     "courses": [
       {
         "name": "올림픽",
@@ -234,6 +240,7 @@
     "name": "일산스프링힐스",
     "location": "경기도 고양시 일산동구 산황로 108",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ilsanspringhills.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/38477836/home?entry=plt",
     "courses": [
       {
         "name": "스프링힐스",
@@ -256,6 +263,7 @@
     "name": "한원컨트리클럽",
     "location": "경기도 용인시 처인구 남사읍 전나무골길 2번길 94",
     "imageUrl": "https://www.hanwoncc.co.kr/images/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1764292119/home?entry=plt",
     "courses": [
       {
         "name": "고구려코스",
@@ -306,6 +314,7 @@
     "name": "양지파인리조트",
     "location": "경기도 용인시 처인구 양지면 남평로 112",
     "imageUrl": "https://www.pineresort.com/img/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/accommodation/11583170/home?entry=plt&businessCategory=hotel",
     "courses": [
       {
         "name": "남코스",
@@ -356,6 +365,7 @@
     "name": "수원컨트리클럽",
     "location": "경기도 용인시 처인구 양지면 남평로 112",
     "imageUrl": "http://www.suwoncc.co.kr/homepage/images/main/top_logo.gif",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374607/home?entry=plt",
     "courses": [
       {
         "name": "NEW COURSE",
@@ -392,6 +402,7 @@
     "name": "플라자CC",
     "location": "용인시 처인구 남사읍 봉무로 153번길 79",
     "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "타이거코스 OUT",
@@ -457,6 +468,7 @@
     "name": "플라자CC 설악",
     "location": "강원도 속초시 미시령로2983번길 111",
     "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "선라이즈",
@@ -494,6 +506,7 @@
     "name": "플라자CC 제주",
     "location": "제주특별자치도 제주시 명림로 575-107",
     "imageUrl": "https://www.plazacc.co.kr/plzcc/irsweb/golf2/images/common/logo.gif",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT COURSE",
@@ -531,6 +544,7 @@
     "name": "태광CC",
     "location": "용인시 기흥구 흥덕4로 77",
     "imageUrl": "https://www.taekwangcc.co.kr/images/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "북코스",
@@ -595,6 +609,7 @@
     "name": "한성컨트리클럽",
     "location": "용인시 기흥구 구교동로 151",
     "imageUrl": "https://hansung-cc.co.kr/img_re/logo_w.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "오렌지코스",
@@ -645,6 +660,7 @@
     "name": "골드CC",
     "location": "용인시 기흥구 기흥단지로 398",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/goldcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "챔피언코스",
@@ -681,6 +697,7 @@
     "name": "코리아CC",
     "location": "용인시 처인구 이동읍 기흥단지로 579",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/koreacc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "레이크코스",
@@ -731,6 +748,7 @@
     "name": "코리아 퍼블릭",
     "location": "경기도 용인시 기흥구 기흥단지로 224",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/koreapublic_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "퍼블릭코스",
@@ -753,6 +771,7 @@
     "name": "강화웰빙CC",
     "location": "인천광역시 강화군 길상면 해안남로 392",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ganghwawellbeing_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "웰빙코스",
@@ -775,6 +794,7 @@
     "name": "88CC",
     "location": "용인시 기흥구 석성로 521번길 169",
     "imageUrl": "https://www.88countryclub.co.kr/images/sub_logo.png?v=1.0",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "서코스 OUT",
@@ -839,6 +859,7 @@
     "name": "레이크사이드CC",
     "location": "용인시 처인구 모현읍 능원로 181",
     "imageUrl": "https://www.lakeside.kr/resource/assets/common/images/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "동코스 OUT",
@@ -931,6 +952,7 @@
     "name": "남부CC",
     "location": "정원석,용인시 기흥구 사은로 163",
     "imageUrl": "https://www.namboocc.co.kr/resource/assets/common/images/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT",
@@ -967,6 +989,7 @@
     "name": "신원CC",
     "location": "용인시 이동읍 이원로 225",
     "imageUrl": "https://www.swcc.co.kr/static/pc/images/common/custom/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "솔로몬",
@@ -1017,6 +1040,7 @@
     "name": "은화삼CC",
     "location": "용인시 처인구 백옥대로 860-38",
     "imageUrl": "https://www.ehscc.co.kr/Content/web/img/logo_off.svg",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "웨스트코스",
@@ -1053,6 +1077,7 @@
     "name": "블루원용인CC",
     "location": "윤재원,용인시 처인구 원삼면 보개원삼로 1534번길 40",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/blueoneyongin_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "웨스트코스",
@@ -1103,6 +1128,7 @@
     "name": "블루원상주CC",
     "location": "경상북도 상주시 모서면 화현3길 127",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/blueonesangju_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "이스트코스",
@@ -1139,6 +1165,7 @@
     "name": "지산CC",
     "location": "용인시 처인구 원삼면 죽양대로 2000번길 60",
     "imageUrl": "https://www.jisanresort.co.kr/w/asset/images/common/m_ft_logo_new.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "동코스",
@@ -1203,6 +1230,7 @@
     "name": "화산CC",
     "location": "경기도 용인시 처인구 이동읍 화산로 239",
     "imageUrl": "http://www.hwasancc.com/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT COURCE",
@@ -1239,6 +1267,7 @@
     "name": "한림용인CC",
     "location": "용인시 처인구 남사면 경기동로 628",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "사파이어코스",
@@ -1289,6 +1318,7 @@
     "name": "골프존카운티 안성H",
     "location": "경기도 안성시 보개면 보삼로 302",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "HILL코스",
@@ -1325,6 +1355,7 @@
     "name": "골프존카운티 안성W",
     "location": "안성시 양성면 교동길 19-70",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1361,6 +1392,7 @@
     "name": "한림안성",
     "location": "안성시 양성면 산정리 산 163-22",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "한림안성",
@@ -1383,6 +1415,7 @@
     "name": "골프존카운티 진천",
     "location": "충북 진천군 진천읍 지암리 310",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "레이크코스",
@@ -1433,6 +1466,7 @@
     "name": "골프존카운티 화랑",
     "location": "충북 진천군 문백면 농다리로 809",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "원화랑",
@@ -1469,6 +1503,7 @@
     "name": "골프존카운티 천안",
     "location": "충남 천안시 동남구 병천면 매성2길 103",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1505,6 +1540,7 @@
     "name": "골프존카운티 청통",
     "location": "경상북도 영천시 청통면 은해사로 49-77",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "청통코스",
@@ -1541,6 +1577,7 @@
     "name": "골프존카운티 감포",
     "location": "경주시 감포읍 동해안로 1819-59",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1577,6 +1614,7 @@
     "name": "골프존카운티 구미",
     "location": "구미시 산동면 강동로 953-74",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1613,6 +1651,7 @@
     "name": "골프존카운티 선산",
     "location": "구미시 산동면 강동로 953-73",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -1649,6 +1688,7 @@
     "name": "골프존카운티 경남",
     "location": "함안군 칠원읍 운무로 470",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "페리돗 코스",
@@ -1685,6 +1725,7 @@
     "name": "골프존카운티 사천",
     "location": "사천시 서포면 구송로 151",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "다솔 코스",
@@ -1735,6 +1776,7 @@
     "name": "더골프CC",
     "location": "울산광역시 울주군 서생면 용연길 206-52",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OCEAN 코스",
@@ -1771,6 +1813,7 @@
     "name": "골프존카운티 무주",
     "location": "전북 무주군 안성면 장무로 1537-21",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "LAKE 코스",
@@ -1807,6 +1850,7 @@
     "name": "골프존카운티 선운",
     "location": "전북 고창군 아산면 운곡로 418",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "선운코스",
@@ -1843,6 +1887,7 @@
     "name": "골프존카운티 순천",
     "location": "전남 순천시 주암면 행정 1길 77",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "루비",
@@ -1907,6 +1952,7 @@
     "name": "골프존카운티 영암45",
     "location": "전라남도 영암군 삼호읍 에프원로 121-1",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "짐앵A",
@@ -1985,6 +2031,7 @@
     "name": "골프존카운티 오라",
     "location": "제주시 오라남로 130-16",
     "imageUrl": "https://www.golfzoncounty.com/static/origin/images/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "동",
@@ -2049,6 +2096,7 @@
     "name": "안양컨트리클럽",
     "location": "경기도 군포시 군포로 364",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT코스",
@@ -2085,6 +2133,7 @@
     "name": "가평베네스트",
     "location": "경기도 가평군 상면 둔덕말길 232",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "MAPLE",
@@ -2135,6 +2184,7 @@
     "name": "안성베네스트",
     "location": "경기도 안성시 금광면 삼흥로 660",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "WEST",
@@ -2199,6 +2249,7 @@
     "name": "동래베네스트",
     "location": "부산광역시 금정구 하정로 66",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT",
@@ -2235,6 +2286,7 @@
     "name": "글렌로스골프클럽",
     "location": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 69",
     "imageUrl": "https://benestgolf.com/resources/reve/img/web/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT",
@@ -2271,6 +2323,7 @@
     "name": "용인CC",
     "location": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 69",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/yongincc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "용인코스",
@@ -2307,6 +2360,7 @@
     "name": "써닝포인트CC",
     "location": "경기도 용인시 처인구 백암면 고안로 51번길205",
     "imageUrl": "https://www.sunningpoint.com/v2020/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "SUN 코스",
@@ -2343,6 +2397,7 @@
     "name": "해솔리아CC",
     "location": "경기도 용인시 처인구 이동읍 백자로 369",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haesolia_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "해코스",
@@ -2393,6 +2448,7 @@
     "name": "세현CC",
     "location": "경기도 용인시 처인구 이동읍 백자로 450",
     "imageUrl": "https://www.sehyeoncc.com/images/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "VALLEY",
@@ -2429,6 +2485,7 @@
     "name": "남서울컨트리클럽",
     "location": "성남시 분당구 안양판교로1201번길 1201",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/namseoulcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -2465,6 +2522,7 @@
     "name": "리베라CC",
     "location": "경기도 화성시 중리길 183",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "레이크 코스",
@@ -2529,6 +2587,7 @@
     "name": "신안CC",
     "location": "경기도 안성시 고삼면 개울말길 149",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "토마토 코스",
@@ -2579,6 +2638,7 @@
     "name": "그린힐CC",
     "location": "경기도 광주시 곤지암읍 내선길 176",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -2615,6 +2675,7 @@
     "name": "에버리스리조트",
     "location": "제주특별자치도 제주시 애월읍 평화로 1693-75",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "새별 코스",
@@ -2665,6 +2726,7 @@
     "name": "웰리힐리CC",
     "location": "강원도 횡성군 둔내면 조항로 360",
     "imageUrl": "https://www.shinangolf.com/assets/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "남코스 OUT",
@@ -2729,6 +2791,7 @@
     "name": "기흥컨트리클럽",
     "location": "경기도 화성시 풀무골로 106번길 244",
     "imageUrl": "https://www.ghcc.kr/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "동코스",
@@ -2793,6 +2856,7 @@
     "name": "발리오스CC",
     "location": "경기 화성시 팔탄면3.1만세로 641-28",
     "imageUrl": "https://www.baliosgc.com/images/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "동코스",
@@ -2843,6 +2907,7 @@
     "name": "라비돌CC",
     "location": "경기도 화성시 정남면 세자로 286",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/laviedorcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "동코스",
@@ -2865,6 +2930,7 @@
     "name": "상록골프앤리조트",
     "location": "경기도 화성시 동탄면 풀무골로 60번길 80",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/sangrokcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "남코스",
@@ -2915,6 +2981,7 @@
     "name": "천안상록CC",
     "location": "충남 천안시 수신면 수신로 576",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/chunansangrokcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "남코스",
@@ -2965,6 +3032,7 @@
     "name": "김해상록CC",
     "location": "경남 김해시 한림면 김해대로 974번길 198",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ginhaesangrokcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "황세코스",
@@ -3001,6 +3069,7 @@
     "name": "남원상록CC",
     "location": "전북 남원시 대산면 월계길 11",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/namwonsangrokcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "몽룡코스",
@@ -3037,6 +3106,7 @@
     "name": "화성골프클럽",
     "location": "경기도 화성시 남양읍 화성로 1393-27",
     "imageUrl": "https://www.hwaseonggc.com/images/subLogo2.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "PINE 코스",
@@ -3059,6 +3129,7 @@
     "name": "링크나인CC",
     "location": "경기도 화성시 마도면 해운로 630번길 49",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/linkninecc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "링크나인",
@@ -3081,6 +3152,7 @@
     "name": "더해븐CC",
     "location": "경기도 안산시 단원구 대선로 466 ",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/theheavencc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "SOUTH 코스",
@@ -3131,6 +3203,7 @@
     "name": "제일CC",
     "location": "경기도 안산시 상록구 태마당로 28",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/jaeilcc_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "SOUTH 코스",
@@ -3181,6 +3254,7 @@
     "name": "양주컨트리클럽",
     "location": "경기도 안산시 상록구 태마당로 28",
     "imageUrl": "https://www.yangjucc.co.kr/image/common/logo.jpg",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "서코스",
@@ -3217,6 +3291,7 @@
     "name": "한림광릉CC",
     "location": "경기도 남양주시 진접읍 팔야로 280 ",
     "imageUrl": "http://www.kwangneungcc.co.kr/images/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "Glen 코스",
@@ -3253,6 +3328,7 @@
     "name": "비젼힐스CC",
     "location": "경기도 남양주시 화도읍 마치로 226-220",
     "imageUrl": "https://www.visionhillscc.co.kr/images_new/common/logo01.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "EAST 코스",
@@ -3289,6 +3365,7 @@
     "name": "해비치 컨트리클럽 서울",
     "location": "경기도 남양주시 화도읍 재재기로 190번길 160",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haevichiseoul_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3325,6 +3402,7 @@
     "name": "해비치 컨트리클럽 제주",
     "location": "제주도 서귀포시 남원읍 원님로 399번길 319 ",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haevichijeju_logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "SKY 코스",
@@ -3389,6 +3467,7 @@
     "name": "남양주CC",
     "location": "남양주시 오남읍 진건오남로 516-31",
     "imageUrl": "http://www.namyangjucc.co.kr/Img/nyj_pc_top.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT",
@@ -3411,6 +3490,7 @@
     "name": "솔트베이CC",
     "location": "경기도 시흥시 마유로 987",
     "imageUrl": "https://www.saltbay.co.kr/image/common/logo.png",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3447,6 +3527,7 @@
     "name": "아세코밸리CC",
     "location": "경기도 시흥시 마전로 307",
     "imageUrl": "https://www.asecovalley.co.kr/img/logo.1c08ade5.svg",
+    "naverPlaceUrl": "",
     "courses": [
       {
         "name": "OUT 코스",
