@@ -3383,6 +3383,28 @@
         ]                       
       }
     ]
+  },
+  {
+    "id": "namyangjucc",
+    "name": "남양주CC",
+    "location": "남양주시 오남읍 진건오남로 516-31",
+    "imageUrl": "http://www.namyangjucc.co.kr/Img/nyj_pc_top.png",
+    "courses": [
+      {
+        "name": "OUT",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
   }
 ]
 
