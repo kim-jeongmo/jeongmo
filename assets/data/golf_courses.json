@@ -3288,7 +3288,7 @@
     "id": "haevichiseoul",
     "name": "해비치 컨트리클럽 서울",
     "location": "경기도 남양주시 화도읍 재재기로 190번길 160",
-    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/hhaevichiseoul_logo.png",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haevichiseoul_logo.png",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3404,6 +3404,28 @@
           { "number": 9, "par": 4 } 
         ]                       
       }
+    ]
+  },
+  {
+    "id": "asecovalleycc",
+    "name": "아세코밸리CC",
+    "location": "경기도 시흥시 마전로 307",
+    "imageUrl": "https://www.asecovalley.co.kr/img/logo.1c08ade5.svg",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
     ]
   }
 ]
