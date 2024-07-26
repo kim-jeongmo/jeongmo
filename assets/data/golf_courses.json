@@ -2859,6 +2859,178 @@
         ]                       
       }
     ]
+  },
+  {
+    "id": "sangrokgolfandresort",
+    "name": "상록골프앤리조트",
+    "location": "경기도 화성시 동탄면 풀무골로 60번길 80",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/sangrokcc_logo.png",
+    "courses": [
+      {
+        "name": "남코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "동코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "서코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "chunansangrokcc",
+    "name": "천안상록CC",
+    "location": "충남 천안시 수신면 수신로 576",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/chunansangrokcc_logo.png",
+    "courses": [
+      {
+        "name": "남코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "중코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "동코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "ginhaesangrokcc",
+    "name": "김해상록CC",
+    "location": "경남 김해시 한림면 김해대로 974번길 198",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ginhaesangrokcc_logo.png",
+    "courses": [
+      {
+        "name": "황세코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 6 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "여의코스",          
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "namwonsangrokcc",
+    "name": "남원상록CC",
+    "location": "전북 남원시 대산면 월계길 11",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/namwonsangrokcc_logo.png",
+    "courses": [
+      {
+        "name": "몽룡코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "춘향코스",           
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
   }
 ]
 
