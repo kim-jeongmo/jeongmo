@@ -2423,6 +2423,42 @@
         ]                       
       }
     ]
+  },
+  {
+    "id": "namseoulcc",
+    "name": "남서울컨트리클럽",
+    "location": "성남시 분당구 안양판교로1201번길 1201",
+    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "IN 코스",          
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
   }
 ]
 
