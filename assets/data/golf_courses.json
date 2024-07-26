@@ -3285,10 +3285,10 @@
     ]
   },
   {
-    "id": "haevichijeju",
-    "name": "해비치 컨트리클럽 제주",
-    "location": "제주도 서귀포시 남원읍 원님로 399번길 319 ",
-    "imageUrl": "https://www.haevichi.com/ko/pc/img/com/logo_header_CC_seoul.png",
+    "id": "haevichiseoul",
+    "name": "해비치 컨트리클럽 서울",
+    "location": "경기도 남양주시 화도읍 재재기로 190번길 160",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/hhaevichiseoul_logo.png",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3324,7 +3324,7 @@
     "id": "haevichijeju",
     "name": "해비치 컨트리클럽 제주",
     "location": "제주도 서귀포시 남원읍 원님로 399번길 319 ",
-    "imageUrl": "https://www.haevichi.com/ko/pc/img/com/logo_header_CC_jeju.png",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haevichijeju_logo.png",
     "courses": [
       {
         "name": "SKY 코스",
