@@ -2459,6 +2459,406 @@
         ]                       
       }
     ]
+  },
+  {
+    "id": "riveracc",
+    "name": "리베라CC",
+    "location": "경기도 화성시 중리길 183",
+    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "courses": [
+      {
+        "name": "레이크 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "밸리 코스",           
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "파인힐 코스",         
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "체리힐 코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "sinancc",
+    "name": "신안CC",
+    "location": "경기도 안성시 고삼면 개울말길 149",
+    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "courses": [
+      {
+        "name": "토마토 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 6 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {                         
+        "name": "애플 코스",          
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                      
+	  {                         
+        "name": "오랜지 코스",          
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "greenhillcc",
+    "name": "그린힐CC",
+    "location": "경기도 광주시 곤지암읍 내선길 176",
+    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "courses": [
+      {
+        "name": "OUT 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {                         
+        "name": "IN 코스",           
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "everisgolfresort",
+    "name": "에버리스리조트",
+    "location": "제주특별자치도 제주시 애월읍 평화로 1693-75",
+    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "courses": [
+      {
+        "name": "새별 코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },
+	  {                         
+        "name": "레이크 코스",          
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                 
+	  {                         
+        "name": "파인 코스",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "wellihillicc",
+    "name": "웰리힐리CC",
+    "location": "강원도 횡성군 둔내면 조항로 360",
+    "imageUrl": "https://nscc.co.kr/static/pc/images/common/custom/logo_b.png",
+    "courses": [
+      {
+        "name": "남코스 OUT",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 6 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },
+	  {                         
+        "name": "남코스 IN",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },            
+	  {                         
+        "name": "북코스 OUT",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },               
+	  {                         
+        "name": "북코스 IN",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "giheungcc",
+    "name": "기흥컨트리클럽",
+    "location": "경기도 화성시 풀무골로 106번길 244",
+    "imageUrl": "https://www.ghcc.kr/images/common/logo.png",
+    "courses": [
+      {
+        "name": "동코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                     
+	  {                         
+        "name": "남코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+        ]                       
+      },                 
+	  {                         
+        "name": "북코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                     
+	  {                         
+        "name": "서코스",        
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "balioscc",
+    "name": "발리오스CC",
+    "location": "경기 화성시 팔탄면3.1만세로 641-28",
+    "imageUrl": "https://www.baliosgc.com/images/logo.png",
+    "courses": [
+      {
+        "name": "동코스",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "서코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 3 } 
+        ]                       
+      },                        
+	  {                         
+        "name": "남코스",         
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
+  },
+  {
+    "id": "laviedorcc",
+    "name": "라비돌CC",
+    "location": "경기도 화성시 정남면 세자로 286",
+    "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/laviedorcc_logo.png",
+    "courses": [
+      {
+        "name": "동코스",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+        ]                       
+      }
+    ]
   }
 ]
 
