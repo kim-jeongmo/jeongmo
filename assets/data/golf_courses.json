@@ -2064,7 +2064,6 @@
       }
     ]
   },
-  ,
   {
     "id": "golfzoncountyyounngam45",
     "name": "골프존카운티 영암45",
@@ -2909,7 +2908,7 @@
     "name": "기흥컨트리클럽",
     "location": "경기도 화성시 풀무골로 106번길 244",
     "imageUrl": "https://www.ghcc.kr/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21399220/home?entry=plt",
     "courses": [
       {
         "name": "동코스",
@@ -2974,7 +2973,7 @@
     "name": "발리오스CC",
     "location": "경기 화성시 팔탄면3.1만세로 641-28",
     "imageUrl": "https://www.baliosgc.com/images/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613150/home?entry=plt",
     "courses": [
       {
         "name": "동코스",
@@ -3025,7 +3024,7 @@
     "name": "라비돌CC",
     "location": "경기도 화성시 정남면 세자로 286",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/laviedorcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/19136312/home?entry=plt",
     "courses": [
       {
         "name": "동코스",
@@ -3045,10 +3044,10 @@
   },
   {
     "id": "sangrokgolfandresort",
-    "name": "상록골프앤리조트",
+    "name": "화성상록GC",
     "location": "경기도 화성시 동탄면 풀무골로 60번길 80",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/sangrokcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12375785/home?entry=plt",
     "courses": [
       {
         "name": "남코스",
@@ -3099,7 +3098,7 @@
     "name": "천안상록CC",
     "location": "충남 천안시 수신면 수신로 576",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/chunansangrokcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615182/home?entry=plt",
     "courses": [
       {
         "name": "남코스",
@@ -3150,7 +3149,7 @@
     "name": "김해상록CC",
     "location": "경남 김해시 한림면 김해대로 974번길 198",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/ginhaesangrokcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/35162660/home?entry=plt",
     "courses": [
       {
         "name": "황세코스",
@@ -3187,7 +3186,7 @@
     "name": "남원상록CC",
     "location": "전북 남원시 대산면 월계길 11",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/namwonsangrokcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21125157/home?entry=plt",
     "courses": [
       {
         "name": "몽룡코스",
@@ -3224,7 +3223,7 @@
     "name": "화성골프클럽",
     "location": "경기도 화성시 남양읍 화성로 1393-27",
     "imageUrl": "https://www.hwaseonggc.com/images/subLogo2.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12980015/home?entry=plt",
     "courses": [
       {
         "name": "PINE 코스",
@@ -3247,7 +3246,7 @@
     "name": "링크나인CC",
     "location": "경기도 화성시 마도면 해운로 630번길 49",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/linkninecc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13030058/home?entry=plt",
     "courses": [
       {
         "name": "링크나인",
@@ -3270,7 +3269,7 @@
     "name": "더해븐CC",
     "location": "경기도 안산시 단원구 대선로 466 ",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/theheavencc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1015024769/home?entry=plt",
     "courses": [
       {
         "name": "SOUTH 코스",
@@ -3321,7 +3320,7 @@
     "name": "제일CC",
     "location": "경기도 안산시 상록구 태마당로 28",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/jaeilcc_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614097/home?entry=plt",
     "courses": [
       {
         "name": "SOUTH 코스",
@@ -3369,10 +3368,10 @@
   },
   {
     "id": "yangjucc",
-    "name": "양주컨트리클럽",
+    "name": "양주CC",
     "location": "경기도 안산시 상록구 태마당로 28",
     "imageUrl": "https://www.yangjucc.co.kr/image/common/logo.jpg",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613598/home?entry=plt",
     "courses": [
       {
         "name": "서코스",
@@ -3409,7 +3408,7 @@
     "name": "한림광릉CC",
     "location": "경기도 남양주시 진접읍 팔야로 280 ",
     "imageUrl": "http://www.kwangneungcc.co.kr/images/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612752/home?entry=plt",
     "courses": [
       {
         "name": "Glen 코스",
@@ -3446,7 +3445,7 @@
     "name": "비젼힐스CC",
     "location": "경기도 남양주시 화도읍 마치로 226-220",
     "imageUrl": "https://www.visionhillscc.co.kr/images_new/common/logo01.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11815264/home?entry=plt",
     "courses": [
       {
         "name": "EAST 코스",
@@ -3480,10 +3479,10 @@
   },
   {
     "id": "haevichiseoul",
-    "name": "해비치 컨트리클럽 서울",
+    "name": "남양주해비치CC",
     "location": "경기도 남양주시 화도읍 재재기로 190번길 160",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haevichiseoul_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374638/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3517,10 +3516,10 @@
   },
   {
     "id": "haevichijeju",
-    "name": "해비치 컨트리클럽 제주",
+    "name": "해비치컨트리클럽 제주",
     "location": "제주도 서귀포시 남원읍 원님로 399번길 319 ",
     "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/haevichijeju_logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/20095579/home?entry=plt",
     "courses": [
       {
         "name": "SKY 코스",
@@ -3585,7 +3584,7 @@
     "name": "남양주CC",
     "location": "남양주시 오남읍 진건오남로 516-31",
     "imageUrl": "http://www.namyangjucc.co.kr/Img/nyj_pc_top.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11881697/home?entry=plt",
     "courses": [
       {
         "name": "OUT",
@@ -3605,10 +3604,10 @@
   },
   {
     "id": "saltbaycc",
-    "name": "솔트베이CC",
+    "name": "솔트베이골프클럽",
     "location": "경기도 시흥시 마유로 987",
     "imageUrl": "https://www.saltbay.co.kr/image/common/logo.png",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21557554/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3645,7 +3644,7 @@
     "name": "아세코밸리CC",
     "location": "경기도 시흥시 마전로 307",
     "imageUrl": "https://www.asecovalley.co.kr/img/logo.1c08ade5.svg",
-    "naverPlaceUrl": "",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/36940016/home?entry=plt",
     "courses": [
       {
         "name": "OUT 코스",
@@ -3662,7 +3661,607 @@
 		]
 	  }
     ]
-  }
+  },
+  {
+    "id": "seoseoulcc",
+    "name": "서서울CC",
+    "location": "경기 파주시 광탄면 혜음로 324",
+    "imageUrl": "https://www.seoseoul.co.kr/images/common/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613470/home?entry=plt",
+    "courses": [
+      {
+        "name": "레이크",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "힐",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "seowonballycc",
+    "name": "서원밸리CC",
+    "location": "경기 파주시 광탄면 서원길 333",
+    "imageUrl": "https://www.seowongolf.co.kr/pc/images/valley/logo_on.svg",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613479/home?entry=plt",
+    "courses": [
+      {
+        "name": "밸리",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "서원",              
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+	{
+	  "id": "seowonhills",
+	  "name": "서원힐스CC",
+	  "location": "경기 파주시 광탄면 서원길 333",
+	  "imageUrl": "https://www.seowongolf.co.kr/pc/images/hills/ic_logo_gray.svg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/20340126/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "EAST",
+		  "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 	  
+		  ]                     
+		},                      
+		{                       
+		  "name": "SOUTH",      
+		  "holes": [            
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+		  ]                     
+		},                      
+		{                       
+		  "name": "WEST",       
+		  "holes": [            
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+
+  {
+    "id": "wontheclubpajucc",
+    "name": "원더클럽 파주CC",
+    "location": "경기 파주시 법원읍 화합로 306",
+    "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13292563/home?entry=plt",
+    "courses": [
+      {
+        "name": "EAST",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "WEST",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "bestvalleygc",
+    "name": "베스트밸리GC",
+    "location": "경기 파주시 광탄면 장지산로200번길 32-41",
+    "imageUrl": "https://www.bestvalleygc.com/Images/logo_footer.svg",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/37943228/home?entry=plt",
+    "courses": [
+      {
+        "name": "OUT",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 } 
+		]                       
+	  }
+    ]
+  },
+  {
+    "id": "npcc",
+    "name": "노스팜CC",
+    "location": "경기 파주시 광탄면 쇠장이길 265",
+    "imageUrl": "https://www.npcc.co.kr/images/footer_logo.svg",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21259180/home?entry=plt",
+    "courses": [
+      {
+        "name": "EAST",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "WEST",            
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "kugolf",
+    "name": "스마트KU골프파빌리온",
+    "location": "경기 파주시 법원읍 보광로 1616",
+    "imageUrl": "https://kugolf.co.kr/static/pc/images/common/custom/logo_bak.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/20601086/home?entry=plt",
+    "courses": [
+      {
+        "name": "미쁨",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "바른",              
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 5 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "혼솔",              
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 5 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "tigercc",
+    "name": "타이거CC",
+    "location": "경기 파주시 법원읍 술이홀로 1803",
+    "imageUrl": "https://www.tigercc.co.kr/images/logo.svg",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/32848690/home?entry=plt",
+    "courses": [
+      {
+        "name": "GAON",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "NURY",            
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "gimpocc",
+    "name": "김포씨사이드CC",
+    "location": "경기 김포시 월곶면 김포대로2801번길 219",
+    "imageUrl": "http://www.gimpocc.co.kr/images/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612876/home?entry=plt",
+    "courses": [
+      {
+        "name": "남",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "서",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "namchoncc",
+    "name": "남촌골프클럽",
+    "location": "경기 광주시 곤지암읍 부항길 135-38",
+    "imageUrl": "https://www.namchoncc.co.kr/Content/img/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612881/home?entry=plt",
+    "courses": [
+      {
+        "name": "동",
+        "holes": [
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "서",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 5 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+  {
+    "id": "eastvalley",
+    "name": "이스트밸리CC",
+    "location": "경기 광주시 곤지암읍 건업길 195",
+    "imageUrl": "https://www.eastvalley.co.kr/image/common/logo.png",
+    "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614057/home?entry=plt",
+    "courses": [
+      {
+        "name": "EAST",
+        "holes": [
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 4 },
+          { "number": 4, "par": 3 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                        
+	  {                         
+        "name": "SOUTH",            
+        "holes": [              
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 5 },
+          { "number": 7, "par": 4 },
+          { "number": 8, "par": 3 },
+          { "number": 9, "par": 4 } 
+		]                       
+	  },                         
+	  {                         
+        "name": "WEST",            
+        "holes": [              
+          { "number": 1, "par": 5 },
+          { "number": 2, "par": 4 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 3 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+		]
+	  }
+    ]
+  },
+	{
+	  "id": "http://www.kn300.com/",
+	  "name": "강남300CC",
+	  "location": "경기 광주시 새말길 353",
+	  "imageUrl": "https://www.kn300.com/Content/web/img/logo.svg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614290/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "IN",
+		  "holes": [
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                     
+		},                      
+		{                       
+		  "name": "OUT",        
+		  "holes": [            
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "logebiengc",
+	  "name": "로제비앙 골프클럽 곤지암",
+	  "location": "경기 광주시 곤지암읍 오향길 180",
+	  "imageUrl": "https://www.logebiengc.com/images/common/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1565661206/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "네오",
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 	  
+		    ]                       
+		},                          
+		{                           
+		  "name": "로제",             
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+			]                       
+		},                          
+		{                           
+		  "name": "비앙",             
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+			]
+		}
+	  ]
+	},
+	{
+	  "id": "konjiamgolfclub",	
+	  "name": "곤지암GC",
+	  "location": "경기 광주시 도척면 도척윗로 280 곤지암골프클럽",
+	  "imageUrl": "https://www.konjiamgolfclub.co.kr/common/images/comm/header/logo-header.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/836129259/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "레이크",
+		  "holes": [
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "마운틴",             
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "akdjbcc",
+	  "name": "중부컨트리클럽",
+	  "location": "경기 광주시 곤지암읍 경충대로 451",
+	  "imageUrl": "https://www.akdjbcc.co.kr/images/logo_foot.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614103/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "동",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "서",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	}	
+  
+  
 ]
 
 
