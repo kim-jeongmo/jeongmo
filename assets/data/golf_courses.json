@@ -4345,11 +4345,11 @@
 			  { "number": 7, "par": 3 },
 			  { "number": 8, "par": 4 },
 			  { "number": 9, "par": 4 } 
-		                            
-		                            
-		                            
-		  "name": "OUT              
-		  "holes":                  
+    ]
+    },                            
+		{                            
+		  "name": "OUT",              
+		  "holes": [                 
 			  { "number": 1, "par": 4 },
 			  { "number": 2, "par": 3 },
 			  { "number": 3, "par": 5 },
@@ -4362,10 +4362,318 @@
 		  ]
 		}
 	  ]
+	},
+	{
+	  "id": "lakewoodcc",
+	  "name": "레이크우드CC",
+	  "location": "경기 양주시 만송로 244",
+	  "imageUrl": "https://lakewood.co.kr/static/pc/images/common/lakewood/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/18070878/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "레이크꽃길",
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "레이크물길",         
+		  "holes":  [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "우드산길",            
+		  "holes": [                 
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "우드숲길",            
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "songchoocc",
+	  "name": "송추CC",
+	  "location": "경기 양주시 광적면 쇠장이길 435",
+	  "imageUrl": "http://www.songchoo.co.kr/images/inc/logo.jpg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613513/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "EAST",
+		  "holes":  [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "WEST",           
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "newspringvillecc",
+	  "name": "뉴스프링빌 이천",
+	  "location": "경기 이천시 모가면 사실로527번길 158 뉴스프링C.C",
+	  "imageUrl": "https://icheon.newspring.co.kr/Content/img/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613077/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "록키",
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "몽블랑",             
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "알프스",             
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "올림프스",            
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "newspring2",
+	  "name": "뉴스프링빌 백화산",
+	  "location": "경북 상주시 모서면 백화로 40",
+	  "imageUrl": "https://sangju.newspring.co.kr/Content/mobile/img/naviLogo.svg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12861313/home?entry=pll",
+	  "courses": [
+		{
+		  "name": "몬테로사",
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "빅혼",             
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},	
+	{
+	  "id": "bavistacc",
+	  "name": "비에이비스타CC",
+	  "location": "경기 이천시 모가면 어농로 272",
+	  "imageUrl": "https://www.bavista.co.kr/Content/web/img/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613438/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "BELLA",
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "BUONA",          
+		  "holes": [
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "HOPARK",         
+		  "holes": [
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "LAGO",           
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "MONTI",          
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 3 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "NUOVO",          
+		  "holes": [
+			  { "number": 1, "par": 3 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "VISTA",          
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
 	}	
-	
-  
-  
 ]
 
 
