@@ -5114,6 +5114,219 @@
 		  ]
 		}
 	  ]
+	},
+	{
+	  "id": "ansungcc",
+	  "name": "안성CC",
+	  "location": "경기 안성시 죽산면 걸미로 487",
+	  "imageUrl": "https://www.ansungcc.co.kr/main_img/footer_logo.gif",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374610/home?entry=pll",
+	  "courses": [
+		{
+		  "name": "IN",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "OUT",            
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "winchestgc",
+	  "name": "윈체스트GC",
+	  "location": "경기 안성시 서운면 오촌길 97-31",
+	  "imageUrl": "https://www.winchestgc.co.kr/static/pc/origin/images/logoC.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374650/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "로맨틱",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "클래식",             
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "4wellcc",
+	  "name": "포웰CC 안성",
+	  "location": "경기 안성시 양성면 약산길 67-6",
+	  "imageUrl": "https://as.4wellcc.com/images/logo.png?ver=1",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1305207470/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "Birch Hill",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Oak Hill",       
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "http://www.edenblue.co.kr/",
+	  "name": "에덴블루CC",
+	  "location": "경기 안성시 죽산면 장능리 산62",
+	  "imageUrl": "https://www.edenblue.co.kr/image/common/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13026229/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "레이크",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "마운틴",            
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "밸리",             
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "philosgc",
+	  "name": "필로스GC",
+	  "location": "경기 포천시 일동면 운악청계로 1507",
+	  "imageUrl": "https://www.philosgc.com/new_images/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614151/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "남",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "동",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "서",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
 	}	
 ]
 
