@@ -4333,34 +4333,34 @@
 	  "imageUrl": "https://www.castlexseoul.com/images/common/logo.png",
 	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374601/home?entry=plt",
 	  "courses": [
-		{
-		  "name": "IN",
-		  "holes": [                
-			  { "number": 1, "par": 4 },
-			  { "number": 2, "par": 5 },
-			  { "number": 3, "par": 3 },
-			  { "number": 4, "par": 4 },
-			  { "number": 5, "par": 5 },
-			  { "number": 6, "par": 4 },
-			  { "number": 7, "par": 3 },
-			  { "number": 8, "par": 4 },
-			  { "number": 9, "par": 4 } 
-    ]
-    },                            
-		{                            
-		  "name": "OUT",              
-		  "holes": [                 
-			  { "number": 1, "par": 4 },
-			  { "number": 2, "par": 3 },
-			  { "number": 3, "par": 5 },
-			  { "number": 4, "par": 5 },
-			  { "number": 5, "par": 4 },
-			  { "number": 6, "par": 3 },
-			  { "number": 7, "par": 5 },
-			  { "number": 8, "par": 4 },
-			  { "number": 9, "par": 3 } 
-		  ]
-		}
+      {
+        "name": "IN",
+        "holes": [                
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 5 },
+          { "number": 3, "par": 3 },
+          { "number": 4, "par": 4 },
+          { "number": 5, "par": 5 },
+          { "number": 6, "par": 4 },
+          { "number": 7, "par": 3 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 4 } 
+        ]
+      },                            
+      {                            
+        "name": "OUT",              
+        "holes": [                 
+          { "number": 1, "par": 4 },
+          { "number": 2, "par": 3 },
+          { "number": 3, "par": 5 },
+          { "number": 4, "par": 5 },
+          { "number": 5, "par": 4 },
+          { "number": 6, "par": 3 },
+          { "number": 7, "par": 5 },
+          { "number": 8, "par": 4 },
+          { "number": 9, "par": 3 } 
+        ]
+      }
 	  ]
 	},
 	{
