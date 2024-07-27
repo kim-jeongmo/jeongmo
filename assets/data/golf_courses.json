@@ -5327,6 +5327,326 @@
 		  ]
 		}
 	  ]
+	},
+	{
+	  "id": "adoniscc",
+	  "name": "포천아도니스CC",
+	  "location": "경기 포천시 신북면 포천로 2499",
+	  "imageUrl": "https://www.adoniscc.co.kr/img/logo-dark.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614144/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "동",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "서",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "중",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "bearcreek",
+	  "name": "베어크리크 골프클럽",
+	  "location": "경기 포천시 화현면 달인동로 35",
+	  "imageUrl": "https://www.bearcreek.co.kr/images/intro_p_logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615166/home?entry=pll",
+	  "courses": [
+		{
+		  "name": "BEAR IN",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "BEAR OUT",       
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "CREEK IN",       
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "CREEK OUT",      
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "montvertcc",
+	  "name": "몽베르컨트리클럽",
+	  "location": "경기 포천시 영북면 산정호수로 359-12",
+	  "imageUrl": "https://www.montvertcc.com/static/pc/images/common/logo.png?ver=1",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613141/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "브렝땅",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "에떼",             
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "오똔",             
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "이베르",            
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "ildonglakes",
+	  "name": "일동레이크GC",
+	  "location": "경기 포천시 일동면 화동로 738 일동레이크",
+	  "imageUrl": "https://www.ildonglakes.co.kr:8443/static/pc/images/common/ildonglakes/logo.png?ver=1",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614074/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "마운틴",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 5 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "힐",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 3 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "purunsolpochun",
+	  "name": "푸른솔GC 포천",
+	  "location": "경기 포천시 가산면 금우로 276",
+	  "imageUrl": "https://www.purunsol.co.kr/img/intro/logo_foot.svg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1893318200/home?entry=pll",
+	  "courses": [
+		{
+		  "name": "레이크",
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "마운틴",            
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "밸리",             
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "purunsoljangsung",
+	  "name": "푸른솔GC 장성",
+	  "location": "전남 장성군 동화면 남산리 923-4",
+	  "imageUrl": "https://www.purunsolgc.co.kr/img/webJangseong/main-logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1751906957/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "레이크",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "마운틴",            
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "힐",              
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
 	}	
 ]
 
