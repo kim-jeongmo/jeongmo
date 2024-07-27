@@ -4259,7 +4259,111 @@
 		  ]
 		}
 	  ]
+	},
+
+	{
+	  "id": "newseoulgolf",
+	  "name": "뉴서울CC",
+	  "location": "경기 광주시 삼지곡길 95",
+	  "imageUrl": "https://www.newseoulgolf.co.kr/resources/images/main/logo_color.svg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612888/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "문화 In",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "문화 Out",         
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "예술 In",          
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "예술 Out",         
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "castlexseoul",
+	  "name": "캐슬렉스서울GC",
+	  "location": "경기 하남시 감이로 317 클럽하우스",
+	  "imageUrl": "https://www.castlexseoul.com/images/common/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374601/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "IN",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		                            
+		                            
+		                            
+		  "name": "OUT              
+		  "holes":                  
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 3 } 
+		  ]
+		}
+	  ]
 	}	
+	
   
   
 ]
