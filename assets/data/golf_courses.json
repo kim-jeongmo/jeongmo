@@ -4673,6 +4673,447 @@
 		  ]
 		}
 	  ]
+	},
+	{
+	  "id": "thebangc",
+	  "name": "더반GC",
+	  "location": "경기 이천시 대월면 대월로 627-141",
+	  "imageUrl": "http://www.theban.co.kr/image/main/logo.jpg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12038541/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "LEFT",
+		  "holes": [
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		    ]                        
+		},
+		{
+		                            
+		  "name": "RIGHT",            
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "sscc",
+	  "name": "사우스스프링스CC",
+	  "location": "경기 이천시 모가면 공원로 64",
+	  "imageUrl": "https://www.sscc.co.kr/images/bot_logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13117748/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "Lake",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Mountain",       
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		}
+	  ]
+	},
+	{
+	  "id": "blackstonechon",
+	  "name": "블랙스톤리조트이천",
+	  "location": "경기 이천시 장호원읍 장여로 459-160 블랙스톤이천",
+	  "imageUrl": "https://www.blackstoneresort.com/ic/static/images/common/logo-dark.svg",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/97280723/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "east",
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "north",          
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "west",           
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "icmidascc",
+	  "name": "마이다스레이크 이천 골프앤리조트",
+	  "location": "경기 이천시 설성면 설가로 602",
+	  "imageUrl": "https://www.midasgolf.co.kr/Content/web/images/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/32890847/home?entry=pll",
+	  "courses": [
+		{
+		  "name": "Midas",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Olympus",        
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Titan",          
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "wellingtoncountryclub",
+	  "name": "웰링턴CC",
+	  "location": "경기 이천시 모가면 사실로725번길 119-73",
+	  "imageUrl": "https://www.wellingtoncountryclub.com/resource/image/intro/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/32618628/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "Griffin",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Phoenix",        
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Wyvern",         
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "thecrosbygc",
+	  "name": "더 크로스비 골프클럽",
+	  "location": "경기 이천시 호법면 중부대로798번길 177",
+	  "imageUrl": "https://www.thecrosbygc.co.kr/images/intro_logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1316775872/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "빌리",
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 5 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "샬롯",             
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "아리아",             
+		  "holes": [                 
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "pinecreekcc",
+	  "name": "파인크리크CC",
+	  "location": "경기 안성시 양성면 안성맞춤대로 2417-13",
+	  "imageUrl": "https://www.tyleisure.co.kr/images/logo_pinecreek.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/31093238/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "Creek",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Pine",           
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Valley",         
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "pinevalleycc",
+	  "name": "파인밸리CC",
+	  "location": "강원 삼척시 근덕면 교곡리 445-1",
+	  "imageUrl": "https://www.tyleisure.co.kr/images/logo_pinevalley.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614139/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "Pine",
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Valley",         
+		  "holes": [                
+			  { "number": 1, "par": 3 },
+			  { "number": 2, "par": 6 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 5 },
+			  { "number": 8, "par": 3 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "golfclubq",
+	  "name": "골프클럽 Q",
+	  "location": "경기 안성시 죽산면 장계길 20-229",
+	  "imageUrl": "https://www.golfclubq.com/images/leftLogo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374656/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "PAMPAS",
+		  "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 5 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 3 },
+			  { "number": 5, "par": 5 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "VALLEY",         
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 3 },
+			  { "number": 6, "par": 4 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
+	},
+	{
+	  "id": "maestrocc",
+	  "name": "마에스트로CC",
+	  "location": "경기 안성시 양성면 안성맞춤대로 2134-36",
+	  "imageUrl": "https://www.maestrocc.co.kr/image/common/logo.png",
+	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/18558547/home?entry=plt",
+	  "courses": [
+		{
+		  "name": "Lake",
+		 "holes": [                
+			  { "number": 1, "par": 4 },
+			  { "number": 2, "par": 4 },
+			  { "number": 3, "par": 3 },
+			  { "number": 4, "par": 5 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 5 },
+			  { "number": 7, "par": 3 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 4 } 
+		  ]                         
+		},                          
+		{                           
+		  "name": "Valley",         
+		  "holes": [                
+			  { "number": 1, "par": 5 },
+			  { "number": 2, "par": 3 },
+			  { "number": 3, "par": 4 },
+			  { "number": 4, "par": 4 },
+			  { "number": 5, "par": 4 },
+			  { "number": 6, "par": 3 },
+			  { "number": 7, "par": 4 },
+			  { "number": 8, "par": 4 },
+			  { "number": 9, "par": 5 } 
+		  ]
+		}
+	  ]
 	}	
 ]
 
