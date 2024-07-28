@@ -16276,6 +16276,7 @@
   ]
 },
 {
+  "id": "kingsdayllcc",
   "name": "킹스데일GC",
   "location": "충북 충주시 주덕읍 기업도시3로 2",
   "imageUrl": "",
@@ -16415,6 +16416,7 @@
   ]
 },
 {
+  "id":"blackstonbelforecc",
   "name": "블랙스톤벨포레CC",
   "location": "충북 증평군 도안면 연촌리 산59-15",
   "imageUrl": "",
@@ -16533,6 +16535,7 @@
   ]
 },
 {
+  "id": "geyryongsancc",
   "name": "계룡산골프클럽",
   "location": "충남 공주시 계룡면 왕흥장악로 583",
   "imageUrl": "",
@@ -17065,6 +17068,7 @@
   ]
 },
 {
+  "id": "applevelley",
   "name": "애플밸리CC",
   "location": "경북 김천시 어모면 작점로 606",
   "imageUrl": "",
@@ -17115,6 +17119,7 @@
   ]
 },
 {
+  "id": "andongriverhillcc",
   "name": "안동리버힐컨트리클럽",
   "location": "경북 안동시 풍천면 풍일로 1572",
   "imageUrl": "",
@@ -17228,6 +17233,7 @@
   ]
 },
 {
+  "id": "oceanhillchungdocc",
   "name": "오션힐스 청도GC",
   "location": "경북 청도군 매전면 곰티로 370-204",
   "imageUrl": "",
@@ -17537,6 +17543,7 @@
   ]
 },
 {
+  "id": "samsamcc",
   "name": "삼삼컨트리클럽",
   "location": "경남 사천시 축동면 화당산로 224",
   "imageUrl": "",
@@ -18014,6 +18021,7 @@
   ]
 },
 {
+  "id": "milyangnobelcc",
   "name": "밀양노벨CC",
   "location": "경남 밀양시 단장면 단장로 944",
   "imageUrl": "",
@@ -18126,6 +18134,7 @@
   ]
 },
 {
+  "id": "woongpocc",
   "name": "웅포컨트리클럽",
   "location": "전북 익산시 웅포면 강변로 130 2층",
   "imageUrl": "",
@@ -18214,6 +18223,7 @@
   ]
 },
 {
+  "id": "esperansacc",
   "name": "에스페란사골프클럽",
   "location": "전북 김제시 금구면 낙산로 120",
   "imageUrl": "",
@@ -18269,6 +18279,7 @@
   ]
 },
 {
+  "id": "kvelleycc",
   "name": "케이밸리CC",
   "location": "전북 완주군 운주면 산북리 68-11",
   "imageUrl": "",
@@ -18357,6 +18368,7 @@
   ]
 },
 {
+  "id": "sunchangcc",
   "name": "순창CC",
   "location": "전북 순창군 순창읍 순화리 산10-1",
   "imageUrl": "",
@@ -19006,6 +19018,7 @@
   ]
 },
 {
+  "id": "ecolianeyungkwangcc",
   "name": "에콜리안영광CC",
   "location": "전남 영광군 영광읍 월현로1길 40",
   "imageUrl": "",
@@ -19094,6 +19107,7 @@
   ]
 },
 {
+  "id": "greenfiendgc",
   "name": "그린필드GC",
   "location": "제주 제주시 조천읍 번영로 1040-70",
   "imageUrl": "",
@@ -19156,6 +19170,7 @@
   ]
 },
 {
+  "id": "elisianjejucc",
   "name": "엘리시안제주CC",
   "location": "제주 제주시 애월읍 평화로 1738-116",
   "imageUrl": "",
