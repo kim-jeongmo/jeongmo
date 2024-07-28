@@ -5227,7 +5227,7 @@
 	  ]
 	},
 	{
-	  "id": "http://www.edenblue.co.kr/",
+	  "id": "edenbluecc",
 	  "name": "에덴블루CC",
 	  "location": "경기 안성시 죽산면 장능리 산62",
 	  "imageUrl": "https://www.edenblue.co.kr/image/common/logo.png",
@@ -6052,10 +6052,10 @@
 	  ]
 	},
 	{
-	  "id": "http://www.sophiagreen.co.kr/",
+	  "id": "sophiagreencc",
 	  "name": "소피아그린CC",
 	  "location": "경기 여주시 점동면 소피아그린길 84",
-	  "imageUrl": "",
+	  "imageUrl": "https://sophiagreen.co.kr/static/intro/images/logo.png",
 	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11569105/home?entry=plt",
 	  "courses": [
 		{
@@ -6184,10 +6184,10 @@
 	  ]
 	},
 	{
-	  "id": "http://www.solmoro.com/",
+	  "id": "http://www.solmorocc",
 	  "name": "솔모로CC",
 	  "location": "경기 여주시 가남읍 솔모로그린길 171",
-	  "imageUrl": "",
+	  "imageUrl": "https://www.solmoro.com/Content/web/img/logo.png",
 	  "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614313/home?entry=plt",
 	  "courses": [
 		{
@@ -6357,140 +6357,31 @@
 	  ]
 	},
 {
+  "id":"kccgolfcc",
   "name": "금강CC",
-  "location": "경기 여주시 가남읍 여주남로 541 KCC여주공장",
-  "imageUrl": "",
+  "location": "경기 여주시 가남읍 여주남로 541",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/kccgolfcc_logo",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11612827/home?entry=plt",
   "courses": [
     {
       "name": "남",
-      "holes": [
-        {
-          "number": 1,
-          "par": 4
-        },
-        {
-          "number": 2,
-          "par": 5
-        },
-        {
-          "number": 3,
-          "par": 4
-        },
-        {
-          "number": 4,
-          "par": 3
-        },
-        {
-          "number": 5,
-          "par": 4
-        },
-        {
-          "number": 6,
-          "par": 4
-        },
-        {
-          "number": 7,
-          "par": 4
-        },
-        {
-          "number": 8,
-          "par": 3
-        },
-        {
-          "number": 9,
-          "par": 5
-        }
-      ]
+      "holes": [{ "number": 1, "par": 4 }, { "number": 2, "par": 5 }, { "number": 3, "par": 4 }, { "number": 4, "par": 3 }, { "number": 5, "par": 4 }, { "number": 6, "par": 4 }, { "number": 7, "par": 4 }, { "number": 8, "par": 3 }, { "number": 9, "par": 5 }]
     },
     {
       "name": "동",
-      "holes": [
-        {
-          "number": 1,
-          "par": 4
-        },
-        {
-          "number": 2,
-          "par": 5
-        },
-        {
-          "number": 3,
-          "par": 4
-        },
-        {
-          "number": 4,
-          "par": 3
-        },
-        {
-          "number": 5,
-          "par": 4
-        },
-        {
-          "number": 6,
-          "par": 4
-        },
-        {
-          "number": 7,
-          "par": 4
-        },
-        {
-          "number": 8,
-          "par": 3
-        },
-        {
-          "number": 9,
-          "par": 5
-        }
-      ]
+      "holes": [{ "number": 1, "par": 4 }, { "number": 2, "par": 5 }, { "number": 3, "par": 4 }, { "number": 4, "par": 3 }, { "number": 5, "par": 4 }, { "number": 6, "par": 4 }, { "number": 7, "par": 4 }, { "number": 8, "par": 3 }, { "number": 9, "par": 5 }]
     },
     {
       "name": "서",
-      "holes": [
-        {
-          "number": 1,
-          "par": 5
-        },
-        {
-          "number": 2,
-          "par": 4
-        },
-        {
-          "number": 3,
-          "par": 4
-        },
-        {
-          "number": 4,
-          "par": 3
-        },
-        {
-          "number": 5,
-          "par": 4
-        },
-        {
-          "number": 6,
-          "par": 5
-        },
-        {
-          "number": 7,
-          "par": 4
-        },
-        {
-          "number": 8,
-          "par": 3
-        },
-        {
-          "number": 9,
-          "par": 4
-        }
-      ]
+      "holes": [{ "number": 1, "par": 5 }, { "number": 2, "par": 4 }, { "number": 3, "par": 4 }, { "number": 4, "par": 3 }, { "number": 5, "par": 4 }, { "number": 6, "par": 5 }, { "number": 7, "par": 4 }, { "number": 8, "par": 3 }, { "number": 9, "par": 4 }]
     }
   ]
 },
 {
+  "id":"jayucc",
   "name": "자유CC",
   "location": "경기 여주시 가남읍 자유그린길 69",
-  "imageUrl": "",
+  "imageUrl": "https://www.jayucc.co.kr/img/menu-logo.934bd1b8.svg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374613/home?entry=plt",
   "courses": [
     {
@@ -6578,10 +6469,10 @@
   ]
 },
 {
-  "id": "http://www.victoriagc.co.kr/",
+  "id": "victoriagc",
   "name": "빅토리아 골프클럽",
   "location": "경기 여주시 가남읍 송삼로 191",
-  "imageUrl": "",
+  "imageUrl": "http://www.victoriagc.co.kr/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/38520438/home?entry=plt",
   "courses": [
     {
@@ -6628,10 +6519,10 @@
   ]
 },
 {
-  "id": "http://www.ariji.co.kr/",
+  "id": "arijicc",
   "name": "아리지CC",
   "location": "경기 여주시 가남읍 아리지그린길 68",
-  "imageUrl": "",
+  "imageUrl": "https://www.ariji.co.kr/img/main/main_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11869665/home?entry=plt",
   "courses": [
     {
@@ -6760,10 +6651,10 @@
   ]
 },
 {
-  "id": "http://www.ipo-cc.co.kr/",
+  "id": "ipocc",
   "name": "이포CC",
   "location": "경기 여주시 금사면 장흥로 416",
-  "imageUrl": "",
+  "imageUrl": "https://ipocc.com/img/common/f_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614068/home?entry=plt",
   "courses": [
     {
@@ -6851,10 +6742,10 @@
   ]
 },
 {
-  "id": "https://www.rexfield.com/",
+  "id": "rexfieldcc",
   "name": "렉스필드CC",
   "location": "경기 여주시 산북면 광여로 1115",
-  "imageUrl": "",
+  "imageUrl": "https://www.rexfield.com/static/pc/images/common/custom/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613128/home?entry=plt",
   "courses": [
     {
@@ -6983,10 +6874,10 @@
   ]
 },
 {
-  "id": "http://www.blueheron.co.kr/",
+  "id": "blueheroncc",
   "name": "블루헤런 골프클럽",
   "location": "경기 여주시 대신면 고달사로 67 경기 여주시 대신면 고달사로 67",
-  "imageUrl": "",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/bluheroncc_logo",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613456/home?entry=plt",
   "courses": [
     {
@@ -7074,10 +6965,10 @@
   ]
 },
 {
-  "id": "https://www.onetheclub.com",
+  "id": "onetheclubsinlacc",
   "name": "원더클럽 신라CC",
   "location": "경기 여주시 북내면 신라그린길 84",
-  "imageUrl": "",
+  "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613532/home?entry=plt",
   "courses": [
     {
@@ -7206,10 +7097,10 @@
   ]
 },
 {
-  "id": "http://www.skyvalley.co.kr/",
+  "id": "http://www.skyvalleycc",
   "name": "스카이밸리CC",
   "location": "경기 여주시 북내면 운촌길 254",
-  "imageUrl": "",
+  "imageUrl": "https://www.skyvalley.co.kr/static/pc/origin/resources/w/img/h1_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613522/home?entry=plt",
   "courses": [
     {
@@ -7379,10 +7270,10 @@
   ]
 },
 {
-  "id": "http://www.castlepine.co.kr/",
+  "id": "castlepinecc",
   "name": "캐슬파인GC",
   "location": "경기 여주시 강천면 부평로 580",
-  "imageUrl": "",
+  "imageUrl": "https://www.castlepine.co.kr/image/common/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12151428/home?entry=pll",
   "courses": [
     {
@@ -7470,10 +7361,10 @@
   ]
 },
 {
-  "id": "http://www.haesley.com/",
+  "id": "haesleycc",
   "name": "해슬리나인브릿지CC",
   "location": "경기 여주시 명품1로 76",
-  "imageUrl": "",
+  "imageUrl": "https://www.haesley.com:447/new/images/login/img_logo_platinum.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/19317678/home?entry=plt",
   "courses": [
     {
@@ -7561,10 +7452,10 @@
   ]
 },
 {
-  "id": "http://www.ceragio.com",
+  "id": "ceragiocc",
   "name": "세라지오 골프클럽",
   "location": "경기 여주시 여양로 530 세라지오GC",
-  "imageUrl": "",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/seragiocc_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13083963/home?entry=plt",
   "courses": [
     {
@@ -7652,10 +7543,10 @@
   ]
 },
 {
-  "id": "http://www.360cc.co.kr/",
+  "id": "360cc",
   "name": "360도컨트리클럽",
   "location": "경기 여주시 강천면 부평리 산59-5",
-  "imageUrl": "",
+  "imageUrl": "https://www.360cc.co.kr/resource/assets/common/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/20149535/home?entry=plt",
   "courses": [
     {
@@ -7743,10 +7634,10 @@
   ]
 },
 {
-  "id": "https://www.sunvalley.co.kr/yeoju/golf/intro",
+  "id": "sunvalleyyeojucc_logo",
   "name": "여주썬밸리CC",
   "location": "경기 여주시 강천면 강문로 872",
-  "imageUrl": "",
+  "imageUrl": "https://www.sunvalley.co.kr/static/pc/images/common/yeoju_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21634096/home?entry=plt",
   "courses": [
     {
@@ -7793,10 +7684,10 @@
   ]
 },
 {
-  "id": "http://www.ferrumclub.com/",
+  "id": "ferrumclub",
   "name": "페럼클럽CC",
   "location": "경기 여주시 점동면 점동로 181",
-  "imageUrl": "",
+  "imageUrl": "https://www.ferrumclub.com/m/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/34713962/home?entry=plt",
   "courses": [
     {
@@ -7884,10 +7775,10 @@
   ]
 },
 {
-  "id": "http://www.route52cc.com",
+  "id": "route52cc",
   "name": "루트52CC",
   "location": "경기 여주시 북내면 중암1길 36 루트 52 컨트리클럽",
-  "imageUrl": "",
+  "imageUrl": "https://www.route52cc.com/images/f_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1204135119/home?entry=plt",
   "courses": [
     {
@@ -7975,10 +7866,10 @@
   ]
 },
 {
-  "id": "http://www.teecloud.co.kr/",
+  "id": "teecloudcc",
   "name": "티클라우드CC",
   "location": "경기 동두천시 평화로 3202",
-  "imageUrl": "",
+  "imageUrl": "https://www.teecloud.co.kr/new/img/common/header_logo_m2.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11582656/home?entry=plt",
   "courses": [
     {
@@ -8066,10 +7957,10 @@
   ]
 },
 {
-  "id": "http://www.sunhillgolf.co.kr/",
+  "id": "sunhillgolfcc",
   "name": "썬힐GC",
   "location": "경기 가평군 조종면 운악청계로 809",
-  "imageUrl": "",
+  "imageUrl": "https://www.sunhillgolf.co.kr/home/sunh/img/head_logo.gif",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613560/home?entry=plt",
   "courses": [
     {
@@ -8239,10 +8130,10 @@
   ]
 },
 {
-  "id": "http://www.cpmidas.co.kr/",
+  "id": "cpmidascc",
   "name": "마이다스밸리 청평 골프클럽",
   "location": "경기 가평군 설악면 다락재로 73-111",
-  "imageUrl": "",
+  "imageUrl": "https://www.midasgolf.co.kr/Content/web/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613140/home?entry=pll",
   "courses": [
     {
@@ -8330,10 +8221,10 @@
   ]
 },
 {
-  "id": "http://www.pristinevalley.co.kr/",
+  "id": "pristinevalleycc",
   "name": "프리스틴밸리GC",
   "location": "경기 가평군 설악면 유명로 1243-199",
-  "imageUrl": "",
+  "imageUrl": "https://www.pristinevalley.co.kr/images/logo_layer.jpg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614148/home?entry=plt",
   "courses": [
     {
@@ -8421,10 +8312,10 @@
   ]
 },
 {
-  "id": "https://ananti.kr/ko/chord/CD0201",
+  "id": "anantiseoulcc",
   "name": "아난티 클럽 서울",
   "location": "경기 가평군 설악면 유명로 961-34",
-  "imageUrl": "",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/anati_logo",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613137/home?entry=plt",
   "courses": [
     {
@@ -8553,10 +8444,10 @@
   ]
 },
 {
-  "id": "https://ananti.kr",
+  "id": "anantihaenamcc",
   "name": "아난티남해컨트리클럽",
   "location": "경남 남해군 남면 남서대로1179번길 40-109",
-  "imageUrl": "",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/anati_logo",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/15569765/home?entry=plt",
   "courses": [
     {
@@ -8644,10 +8535,10 @@
   ]
 },
 {
-  "id": "http://www.crystalvalley.co.kr/",
+  "id": "crystalvalleycc",
   "name": "크리스탈 밸리CC",
   "location": "경기 가평군 상면 대보간선로 602-111",
-  "imageUrl": "",
+  "imageUrl": "http://www.crystalvalley.co.kr/img/menu/logo.jpg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11613786/home?entry=plt",
   "courses": [
     {
@@ -8735,10 +8626,10 @@
   ]
 },
 {
-  "id": "http://www.leenleecc.co.kr/",
+  "id": "leenleecccc",
   "name": "리앤리CC",
   "location": "경기 가평군 조종면 운악청계로 702-24",
-  "imageUrl": "",
+  "imageUrl": "https://www.leenleecc.co.kr/images/common/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21796115/home?entry=plt",
   "courses": [
     {
@@ -8867,10 +8758,10 @@
   ]
 },
 {
-  "id": "http://www.venuegcc.com",
+  "id": "venuegcc",
   "name": "베뉴지CC",
   "location": "경기 가평군 가평읍 용추로171번길 100 베뉴지컨트리클럽",
-  "imageUrl": "",
+  "imageUrl": "https://www.venuegcc.com/Web/images/logo.svg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1123105576/home?entry=plt",
   "courses": [
     {
@@ -8999,10 +8890,10 @@
   ]
 },
 {
-  "id": "http://pf.kakao.com/_CMsUK",
+  "id": "jayurocc",
   "name": "자유로cc",
   "location": "경기 연천군 백학면 노아로297번길 179-55",
-  "imageUrl": "",
+  "imageUrl": "https://www.jayurocc.com/img/logo_over.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/37658595/home?entry=plt",
   "courses": [
     {
@@ -9131,10 +9022,10 @@
   ]
 },
 {
-  "id": "http://www.bscc.co.kr/",
+  "id": "busancc",
   "name": "부산CC",
   "location": "부산 금정구 중앙대로2327번길 112 부산컨트리클럽",
-  "imageUrl": "",
+  "imageUrl": "https://www.bscc.co.kr/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374605/home?entry=plt",
   "courses": [
     {
@@ -9222,10 +9113,10 @@
   ]
 },
 {
-  "id": "https://www.asiadcc.co.kr",
+  "id": "asiadcc",
   "name": "아시아드컨트리클럽",
   "location": "부산 기장군 일광읍 차양길 26",
-  "imageUrl": "",
+  "imageUrl": "https://www.asiadcc.co.kr/images/common/logo_asiad.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614495/home?entry=plt",
   "courses": [
     {
@@ -9354,10 +9245,10 @@
   ]
 },
 {
-  "id": "http://www.haeundaecc.com/",
+  "id": "haeundaecc",
   "name": "해운대CC",
   "location": "부산 기장군 정관읍 병산리 산6-1",
-  "imageUrl": "",
+  "imageUrl": "https://www.haeundaecc.com/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374628/home?entry=plt",
   "courses": [
     {
@@ -9486,10 +9377,10 @@
   ]
 },
 {
-  "id": "http://www.highestcc.co.kr/",
+  "id": "highestcc",
   "name": "하이스트CC",
   "location": "부산 강서구 과학산단1로 172",
-  "imageUrl": "",
+  "imageUrl": "https://www.highestcc.co.kr/img/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13111762/home?entry=plt",
   "courses": [
     {
@@ -9536,10 +9427,10 @@
   ]
 },
 {
-  "id": "http://www.haeracc.co.kr/",
+  "id": "haeracc",
   "name": "해라CC",
   "location": "부산 강서구 과학산단로306번길 77",
-  "imageUrl": "",
+  "imageUrl": "https://www.haeracc.co.kr/img/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21542200/home?entry=plt",
   "courses": [
     {
@@ -9586,10 +9477,10 @@
   ]
 },
 {
-  "id": "http://www.bayside.co.kr/",
+  "id": "baysidecc",
   "name": "베이사이드 골프클럽",
   "location": "부산 기장군 일광읍 이천8길 100 베이사이드 골프클럽",
-  "imageUrl": "",
+  "imageUrl": "https://www.bayside.co.kr/static/pc/images/common/bayside/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/12999587/home?entry=pll",
   "courses": [
     {
@@ -9718,10 +9609,10 @@
   ]
 },
 {
-  "id": "http://www.dongwongolf.co.kr/",
+  "id": "dongwongolfcc",
   "name": "기장동원로얄컨트리클럽",
   "location": "부산 기장군 기장읍 반송로 1345",
-  "imageUrl": "",
+  "imageUrl": "https://www.dongwongolf.co.kr/image/common/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/38654910/home?entry=plt",
   "courses": [
     {
@@ -9809,10 +9700,10 @@
   ]
 },
 {
-  "id": "http://www.stonegatecc.co.kr/",
+  "id": "stonegatecc",
   "name": "스톤게이트 컨트리클럽",
   "location": "부산 기장군 일광읍 곡천길 317",
-  "imageUrl": "",
+  "imageUrl": "https://www.stonegatecc.co.kr/img/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1493684322/home?entry=plt",
   "courses": [
     {
@@ -9900,10 +9791,10 @@
   ]
 },
 {
-  "id": "http://inseoul27.co.kr/",
+  "id": "inseoul27cc",
   "name": "인서울27골프클럽",
   "location": "서울 강서구 오쇠동 1-2",
-  "imageUrl": "",
+  "imageUrl": "https://inseoul27.co.kr/images/common/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1597566959/home?entry=plt",
   "courses": [
     {
@@ -10032,10 +9923,10 @@
   ]
 },
 {
-  "id": "http://palgong-cc.co.kr/",
+  "id": "palgong-cc",
   "name": "팔공CC",
   "location": "대구 동구 팔공산로237길 186",
-  "imageUrl": "",
+  "imageUrl": "https://palgong-cc.co.kr/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614644/home?entry=plt",
   "courses": [
     {
@@ -10123,10 +10014,10 @@
   ]
 },
 {
-  "id": "http://www.nc-golf.co.kr",
+  "id": "ncgolfcc",
   "name": "냉천CC",
   "location": "대구 달성군 가창면 가창로 1037-9",
-  "imageUrl": "",
+  "imageUrl": "https://www.nc-golf.com/img/logo_f.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615252/home?entry=plt",
   "courses": [
     {
@@ -10173,10 +10064,10 @@
   ]
 },
 {
-  "id": "http://incheoncc.com/index.asp",
+  "id": "incheonkucjecc",
   "name": "인천국제CC",
   "location": "인천 서구 도요지로 37 인천국제C.C",
-  "imageUrl": "",
+  "imageUrl": "https://www.incheoncc.com:1436/image/common/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11614072/home?entry=plt",
   "courses": [
     {
@@ -10264,10 +10155,10 @@
   ]
 },
 {
-  "id": "http://www.jacknicklausgolfclubkorea.com/",
+  "id": "jacknicklausgolfclubkorea",
   "name": "잭니클라우스골프클럽코리아",
   "location": "인천 연수구 아카데미로 209",
-  "imageUrl": "",
+  "imageUrl": "https://www.jacknicklausgolfclubkorea.com/images/h1_logo.gif",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13186324/home?entry=plt",
   "courses": [
     {
@@ -10355,10 +10246,10 @@
   ]
 },
 {
-  "id": "http://www.songdogolf.co.kr/",
+  "id": "songdogolfcc",
   "name": "송도GC",
   "location": "인천 연수구 능허대로 236",
-  "imageUrl": "",
+  "imageUrl": "https://songdogolf.co.kr/theme/songdo/_img/logo.jpg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615418/home?entry=plt",
   "courses": [
     {
@@ -10405,10 +10296,10 @@
   ]
 },
 {
-  "id": "http://www.incheongrand.cc/",
+  "id": "incheongrandcc",
   "name": "인천그랜드CC",
   "location": "인천 서구 원석로 195",
-  "imageUrl": "",
+  "imageUrl": "https://www.incheongrand.cc/image/common/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615176/home?entry=plt",
   "courses": [
     {
@@ -10496,10 +10387,10 @@
   ]
 },
 {
-  "id": "https://www.onetheclub.com/",
+  "id": "onetheclub72cc",
   "name": "원더클럽 클럽72",
   "location": "인천 중구 공항동로 392",
-  "imageUrl": "",
+  "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/16581542/home?entry=pll",
   "courses": [
     {
@@ -10751,10 +10642,10 @@
   ]
 },
 {
-  "id": "http://www.bearsbestcheongnagc.com/",
+  "id": "bearsbestcheongnagc",
   "name": "베어즈베스트청라GC",
   "location": "인천 서구 청라대로316번길 45",
-  "imageUrl": "",
+  "imageUrl": "https://www.bearsbestcheongnagc.com/Content/img/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21622506/home?entry=plt",
   "courses": [
     {
@@ -10883,10 +10774,10 @@
   ]
 },
 {
-  "id": "https://dreamparkcc.or.kr",
+  "id": "dreamparkcc",
   "name": "드림파크CC",
   "location": "인천 서구 거월로 64 61,",
-  "imageUrl": "",
+  "imageUrl": "https://dreamparkcc.or.kr/images/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/33399884/home?entry=plt",
   "courses": [
     {
@@ -11056,10 +10947,10 @@
   ]
 },
 {
-  "id": "http://www.orangedunesyj.com",
+  "id": "orangedunesyjcc",
   "name": "오렌지듄스영종GC",
   "location": "인천 중구 영종해안남로321번길 184",
-  "imageUrl": "",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/orangedunes_log",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1777755698/home?entry=pll",
   "courses": [
     {
@@ -11147,10 +11038,10 @@
   ]
 },
 {
-  "id": "http://www.uniisland.com",
+  "id": "uniislandcc",
   "name": "유니아일랜드 골프&스파 리조트",
   "location": "인천 강화군 삼산면 어류정길177번길 15 유니아일랜드 골프&스파 리조트",
-  "imageUrl": "",
+  "imageUrl": "https://www.uniisland.com/img/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1189773414/home?entry=plt",
   "courses": [
     {
@@ -11238,10 +11129,10 @@
   ]
 },
 {
-  "id": "https://www.bitgoeulcc.co.kr/web/index.do",
+  "id": "bitgoeulcc",
   "name": "빛고을CC",
   "location": "광주 남구 효우로 153",
-  "imageUrl": "",
+  "imageUrl": "https://www.bitgoeulcc.co.kr/resources/img/icon/main_top_logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13344203/home?entry=plt",
   "courses": [
     {
@@ -11288,10 +11179,10 @@
   ]
 },
 {
-  "id": "http://gs.ecolian.or.kr/",
+  "id": "ecoliangwangsancc",
   "name": "에콜리안광산CC",
   "location": "광주 광산구 오목내길 26",
-  "imageUrl": "",
+  "imageUrl": "https://www.ecolian.or.kr/resources/images/main/logo_color.svg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/31093511/home?entry=plt",
   "courses": [
     {
@@ -11338,10 +11229,10 @@
   ]
 },
 {
-  "id": "http://www.eodeungsancc.com/",
+  "id": "eodeungsancc",
   "name": "어등산CC",
   "location": "광주 광산구 운수동 513",
-  "imageUrl": "",
+  "imageUrl": "https://www.eodeungsancc.com/logo-color.svg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/21033345/home?entry=plt",
   "courses": [
     {
@@ -11470,10 +11361,10 @@
   ]
 },
 {
-  "id": "https://www.yscc.co.kr/",
+  "id": "yousungcc",
   "name": "유성컨트리클럽",
   "location": "대전 유성구 현충원로 200",
-  "imageUrl": "",
+  "imageUrl": "https://www.yscc.co.kr/images/logo.jpg",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1671523409/home?entry=plt",
   "courses": [
     {
@@ -11561,10 +11452,10 @@
   ]
 },
 {
-  "id": "http://www.ddgolf.co.kr/",
+  "id": "sienceddgolfcc",
   "name": "사이언스대덕골프장",
   "location": "대전 유성구 전민동 산11-2",
-  "imageUrl": "",
+  "imageUrl": "http://www.ddgolf.co.kr/image/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/11615253/home?entry=plt",
   "courses": [
     {
@@ -11611,10 +11502,10 @@
   ]
 },
 {
-  "id": "https://www.hanmircc.com/",
+  "id": "hanmircc",
   "name": "한미르대덕CC",
   "location": "대전 유성구 테크노중앙로 210",
-  "imageUrl": "",
+  "imageUrl": "https://www.hanmircc.com/Content/web/img/logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/15993042/home?entry=plt",
   "courses": [
     {
@@ -13090,10 +12981,10 @@
   ]
 },
 {
-  "id": "https://www.onetheclub.com",
+  "id": "onetheclubpaganicacc",
   "name": "원더클럽 파가니카CC",
   "location": "강원 춘천시 남면 소주고개로 145-10",
-  "imageUrl": "",
+  "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/19997485/home?entry=plt",
   "courses": [
     {
@@ -15743,10 +15634,10 @@
   ]
 },
 {
-  "id": "https://www.onetheclub.com/alpensiacc/main",
+  "id": "onetheclubalpensiacc",
   "name": "원더클럽 알펜시아CC",
   "location": "강원 평창군 대관령면 솔봉로 325 알펜시아컨트리클럽",
-  "imageUrl": "",
+  "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/1652417893/home?entry=plt",
   "courses": [
     {
@@ -15764,10 +15655,10 @@
   ]
 },
 {
-  "id": "https://blog.naver.com/alpensia700gc",
+  "id": "onetheclubalpensia700gc",
   "name": "원더클럽 알펜시아700GC",
   "location": "강원 평창군 대관령면 스포츠파크길 234 알펜시아700 Golf Club",
-  "imageUrl": "",
+  "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/15790203/home?entry=plt",
   "courses": [
     {
@@ -15996,10 +15887,10 @@
   ]
 },
 {
-  "id": "https://www.onetheclub.com",
+  "id": "onetheclubthejebecc",
   "name": "원더클럽 떼제베CC",
   "location": "충북 청주시 흥덕구 옥산면 동림2길 149 떼제베골프장",
-  "imageUrl": "",
+  "imageUrl": "https://www.onetheclub.com/static/pc/images/common/custom/header-logo.png",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374602/home?entry=plt",
   "courses": [
     {
@@ -19423,7 +19314,7 @@
   "id": "https://ananti.kr/ko/jeju",
   "name": "아난티 클럽 제주",
   "location": "제주 제주시 구좌읍 선유로 445-55",
-  "imageUrl": "",
+  "imageUrl": "https://kim-jeongmo.github.io/jeongmo/assets/img/anati_logo",
   "naverPlaceUrl": "https://m.place.naver.com/golfcourse/13374652/home?entry=plt",
   "courses": [
     {
