@@ -1411,7 +1411,7 @@ a.newer-posts:hover {
     background-color: #ffffff;
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-	max-height: 300px; /* 사이드바의 최대 높이 설정 */	
+	max-height: 150px; /* 사이드바의 최대 높이 설정 */	
     overflow-y: auto; /* 내용이 넘칠 경우 스크롤 가능하게 설정 */			
   }
   .sidebar footer {
